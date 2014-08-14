@@ -31,7 +31,7 @@ You can add a page with ```hexo new page "pagename"``` . You can add it to the m
 
 Easy mode. When on the master branch, after you've merged in your changes: ```hexo deploy --generate``` 
 
-Boom. Its on gh pages here [http://techlahoma.github.io/okcsharp-website/](http://techlahoma.github.io/okcsharp-website/)
+Boom. Its on gh pages here [http://techlahoma.github.io/okcjs-website/](http://techlahoma.github.io/okcjs-website/)
 
 
 
