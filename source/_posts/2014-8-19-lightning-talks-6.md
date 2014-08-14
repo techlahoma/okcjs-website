@@ -7,7 +7,7 @@ categories: [Lightning Talks]
 post_asset_folder: true
 ---
 
-{% img  /okcjs-website/images/posters/2014-august-lightning-6.png 700 "Lightning Talks 6" "Lightning Talks 6" %}
+{% img  /images/posters/2014-august-lightning-6.png 700 "Lightning Talks 6" "Lightning Talks 6" %}
 
 ##This Month
 
@@ -55,7 +55,7 @@ These awesome folks serve the Oklahoma City tech job market and we thank them fo
 
 [Prototek](http://prototekokc.com/) Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.
 
-![Prototek OKC](/okcjs-website/images/sponsors/prototek.png)
+![Prototek OKC](/images/sponsors/prototek.png)
 
 401 NW 10th St, Oklahoma City, Oklahoma 73103
 

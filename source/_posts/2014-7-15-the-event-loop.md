@@ -7,7 +7,7 @@ tags: [Event Loop, callbacks, event que, Karl Kirch]
 
 ---
 
-{% img  /okcjs-website/images/posters/2014-july-eventloop.png 700 "My favorite anagram: Loop Pool" "The Event Loop with Karl Kirch"%}
+{% img  /images/posters/2014-july-eventloop.png 700 "My favorite anagram: Loop Pool" "The Event Loop with Karl Kirch"%}
 
 ##This Month
 Tuesday: July 15, 2014
@@ -45,7 +45,7 @@ These awesome folks serve the Oklahoma City tech job market and we thank them fo
 
 [Prototek](http://prototekokc.com/) Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.
 
-{% img  /okcjs-website/images/sponsors/prototek.png [700] [Prototek OKC] %}
+{% img  /images/sponsors/prototek.png [700] [Prototek OKC] %}
 
 401 NW 10th St, Oklahoma City, Oklahoma 73103
 

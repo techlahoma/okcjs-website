@@ -6,7 +6,7 @@ comments: true
 tags: [Ryan Rauh, Functional Javascript]
 ---
 
-{% img /okcjs-website/images/posters/2012-april-17-functions.jpg 700 "Conjunction Junction! What's Your function()?!" "Functions in js with Ryan Rauh" %}
+{% img /images/posters/2012-april-17-functions.jpg 700 "Conjunction Junction! What's Your function()?!" "Functions in js with Ryan Rauh" %}
 
 ## This Month
 

@@ -7,7 +7,7 @@ tags: [Steering, Ben Vantreese, Michael Sarchet, CasperJs, DeSteerJs]
 
 ---
 
-{% img  /okcjs-website/images/posters/2013-march-overdriveyourjavascript.jpg  700 "Overdrive your javascript! Unless you are IE - then its slooow script errors all the way down." "Overdrive your Javascript with Ben Vantreese and Michael Sarchet" %}
+{% img  /images/posters/2013-march-overdriveyourjavascript.jpg  700 "Overdrive your javascript! Unless you are IE - then its slooow script errors all the way down." "Overdrive your Javascript with Ben Vantreese and Michael Sarchet" %}
 
 
 ## This Month

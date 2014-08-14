@@ -7,7 +7,7 @@ tags: [Grunt.js, Josh Bavari]
 
 ---
 
-{% img  /okcjs-website/images/posters/2013-dec-grunt.jpg  700 "GRUUUUUNT!" "Grunt with Josh Bavahari" %}
+{% img  /images/posters/2013-dec-grunt.jpg  700 "GRUUUUUNT!" "Grunt with Josh Bavahari" %}
 
 ##This Month
 Tuesday: Dec 17, 2013 

@@ -9,7 +9,7 @@ categories: [Lightning Talks]
 ---
 
 
-{% img  /okcjs-website/images/posters/2013-aug-lightning-talks-III.png  700 "Javascript Kombat: ONly Friendship Fatalities allowed" "Lightning Talks III" %}
+{% img  /images/posters/2013-aug-lightning-talks-III.png  700 "Javascript Kombat: ONly Friendship Fatalities allowed" "Lightning Talks III" %}
 
 ##This Month
 Tuesday: August 20, 2013 

@@ -7,7 +7,7 @@ tags: [Game, Goldfire, Casino RPG, James Simpson, Luke Simkins]
 
 ---
 
-{% img  /okcjs-website/images/posters/2013-february-casinorpg.jpg  700 "Always bet on Js" "Casino RPG with GoldFire" %}
+{% img  /images/posters/2013-february-casinorpg.jpg  700 "Always bet on Js" "Casino RPG with GoldFire" %}
 
 ## This Month
 

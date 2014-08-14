@@ -7,7 +7,7 @@ tags: [Ecmascript, Yuri Delendik]
 
 ---
 
-{% img  /okcjs-website/images/posters/2013-january-22-ecmafox.jpg  700 "More like Wrekt-maScriptht?" "Ecmascript with Yury Delendik" %}
+{% img  /images/posters/2013-january-22-ecmafox.jpg  700 "More like Wrekt-maScriptht?" "Ecmascript with Yury Delendik" %}
 
 
 ## This Month

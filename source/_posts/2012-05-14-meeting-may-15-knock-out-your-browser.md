@@ -6,7 +6,7 @@ comments: true
 tags: [Michael Sarchet, Knockout.js, Micah Choquette]
 ---
 
-{% img /okcjs-website/images/posters/2012-may-15-knockout.jpg  "Rock out with your Knock out." "Knockout your browser with Michael Sarchet and REsponsive Webdesign with Micah Choquette" %}
+{% img /images/posters/2012-may-15-knockout.jpg  "Rock out with your Knock out." "Knockout your browser with Michael Sarchet and REsponsive Webdesign with Micah Choquette" %}
 
 
 

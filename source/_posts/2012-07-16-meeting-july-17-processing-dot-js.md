@@ -7,7 +7,7 @@ tags: [Yury Delendik, Processing.js, visualization]
 ---
 
 
-{% img  /okcjs-website/images/posters/2012-july-17-processingjs.jpeg  700 "More Drawing, More awesome." "Processing.js with Yury Delendik" %}
+{% img  /images/posters/2012-july-17-processingjs.jpeg  700 "More Drawing, More awesome." "Processing.js with Yury Delendik" %}
 
 
 ## This Month: Heads Up! Location Change!

@@ -8,7 +8,7 @@ categories: [Lightning Talks]
 
 ---
 
-{% img  /okcjs-website/images/posters/2014-jan-lightning.png  700 "Get it together, Raiden!!!" "Lightning Talks IV" %}
+{% img  /images/posters/2014-jan-lightning.png  700 "Get it together, Raiden!!!" "Lightning Talks IV" %}
 
 ##This Month
 Tuesday: Dec 17, 2013 

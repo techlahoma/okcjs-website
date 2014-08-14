@@ -7,7 +7,7 @@ tags: [Eric Granata, photoshop automation, Jesse Harlin, jQuery UI]
 ---
 
 
-{% img /okcjs-website/images/posters/2012-march-20-frontend.jpg 700 "Do you even $.widget()?" "Jquery UI Patterns with Jesse Harlin and Photoshop automation with Eric Granata" %}
+{% img /images/posters/2012-march-20-frontend.jpg 700 "Do you even $.widget()?" "Jquery UI Patterns with Jesse Harlin and Photoshop automation with Eric Granata" %}
 
 ## About "Ninjas of the Javascript"
 

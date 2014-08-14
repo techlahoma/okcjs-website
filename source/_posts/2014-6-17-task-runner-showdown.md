@@ -6,7 +6,7 @@ tags: [Gulp, Grunt, Brunch Brocolli, Josh Bavahari]
 
 ---
 
-{% img  /okcjs-website/images/posters/2014-june-taskrunner-showdown.png 700 "Get your running shoes on"  "Task Runner Showdown with Josh Bavahari" %}
+{% img  /images/posters/2014-june-taskrunner-showdown.png 700 "Get your running shoes on"  "Task Runner Showdown with Josh Bavahari" %}
 
 ##This Month
 Tuesday: June 17, 2014
@@ -40,7 +40,7 @@ Tasty lunch will be served thanks to [Robert Half Technologies](http://www.rober
 
 [Prototek](http://prototekokc.com/) Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.
 
-{% img  /okcjs-website/images/sponsors/prototek.png [700] [Prototek OKC] %}
+{% img  /images/sponsors/prototek.png [700] [Prototek OKC] %}
 
 401 NW 10th St, Oklahoma City, Oklahoma 73103
 
