@@ -7,7 +7,7 @@ tags: [Rob Sullivan, Ben Vantreese, Node.js, socket.io, blitz.io]
 ---
 
 
-{% img /okcjs-website/images/posters/2012-april-17-functions.jpg 700 "Lets make it and Break it." "Node.js with Ben Vantreese and Rob Sullivan" %}
+{% img /okcjs-website/images/posters/2012-feb-21-node.jpg 700 "Lets make it and Break it." "Node.js with Ben Vantreese and Rob Sullivan" %}
 
 ## Rock Your World with Node.js and Socket.io!
 
