@@ -7,7 +7,10 @@ tags: [Jesse Harlin, Ben Vantreese]
 categories: [Lightning Talks]
 
 ---
-{% img /images/posters/2012-december-javascript-lightning.jpg 700 Javascript-Lightning %}
+
+
+{% img  /okcjs-website/images/posters/2012-december-javascript-lightning.jpg  700 "MBzzat!" "Lightning Talks I" %}
+
 
 ## This Month
 
@@ -47,7 +50,7 @@ The Exchange
 Oklahoma City, OK 73102
 
 (405) 601-9200 
-{% img /images/misc/VentureSpur-Parking-Map-June-2012.png 700 Parking at Venture Spur %}
+{% img /okcjs-website/images/misc/VentureSpur-Parking-Map-June-2012.png 700 Parking at The Exchange %}
 
 [Google maps link](https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&hl=en&sll=37.0625,-95.677068&sspn=83.75977,57.919922&hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&t=m&z=17)
 

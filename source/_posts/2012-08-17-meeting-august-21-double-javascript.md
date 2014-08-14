@@ -7,7 +7,8 @@ tags: [Jesse Harlin, Vance Lucas, meeting, frisby.js, D3.js, endpointtesting, vi
 ---
 
 
-{% img /images/posters/2012-August-21-DoubleJavascript-D3-Frisby.jpg 700 Double Javascript D3 + FrisbyJs %}
+{% img  /okcjs-website/images/posters//2012-August-21-DoubleJavascript-D3-Frisby.jpg  700 "Hyperkick Your Javascript" "D3.js with Jesse Harlin and Frisby.js with Vance Lucas" %}
+
 
 ## This Month
 
@@ -16,7 +17,7 @@ Meeting Tuesday, August 21 at 11:30am at Oklahoma City Metropolitan Library [Ron
 ### Spin Kick your Javascript with Frisby.js and Data-Driven Documents[d3] 
 
 
-{% img "float-left rounded-corner-all frisby-js" /images/logos/logo-frisby.png 250 "Double Javascript D3 + FrisbyJs" %}The first presentation will be on Frisby.js. Frisby is a REST API testing framework built on node.js and Jasmine that makes testing API endpoints easy, fast, and fun.  Frisby.js is invented by Vance Lucas
+{% img "float-left rounded-corner-all frisby-js" /okcjs-website/images/logos/logo-frisby.png 250 "Double Javascript D3 + FrisbyJs" %}The first presentation will be on Frisby.js. Frisby is a REST API testing framework built on node.js and Jasmine that makes testing API endpoints easy, fast, and fun.  Frisby.js is invented by Vance Lucas
 
 
 The second presentation will cover D3. D3 is a avaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG and CSS. D3's emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
@@ -42,7 +43,7 @@ Howdy! I am developer at NineCollective who specializes in client side technolog
 Tasty lunch will be served thanks to [Robert Half Technologies](http://www.roberthalftechnology.com/). These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They've made it clear they want to see our usergroup succeed, which is an epic win for everyone!
 
 ## usergroup.location = OKC Metropolitan Library;
-{% img "float-left rounded-corner-all metro-library" /images/logos/metro-cybermars.png 250 "Double Javascript D3 + FrisbyJs" %}
+{% img "float-left rounded-corner-all metro-library" /okcjs-website/images/logos/metro-cybermars.png 250 "Double Javascript D3 + FrisbyJs" %}
 
 [Oklahoma City Metropolitan Library](http://www.mls.lib.ok.us/) [Ronald J. Norick Downtown Library]
 

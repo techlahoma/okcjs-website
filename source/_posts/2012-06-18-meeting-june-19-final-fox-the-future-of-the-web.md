@@ -6,7 +6,8 @@ comments: true
 tags: [Luke Crouch, Mozilla, Firefox, emerging technology]
 ---
 
-{% img /images/posters/2012-june-19-mozilla.jpg The Future of the Web %}
+{% img /okcjs-website/images/posters/2012-june-19-mozilla.jpg "The Future of the Web" "Final Fox with Luke Crouch" %}
+
 
 ## This Month
 

@@ -3,11 +3,12 @@ layout: post
 title: "Meeting: May 15 - Knock-Out! Your Browser!"
 date: 2012-05-14 09:41
 comments: true
-tags: [Michael Sarchet, Knockout.js]
+tags: [Michael Sarchet, Knockout.js, Micah Choquette]
 ---
 
+{% img /okcjs-website/images/posters/2012-may-15-knockout.jpg  "Rock out with your Knock out." "Knockout your browser with Michael Sarchet and REsponsive Webdesign with Micah Choquette" %}
 
-{% img /images/posters/2012-may-15-knockout.jpg 700 Knock-Out! Your Browser! %}
+
 
 ## This Month
 
