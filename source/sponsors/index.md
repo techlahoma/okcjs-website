@@ -38,11 +38,11 @@ We End Up Succeeding Together."%}
 
 [Principal Technologies](http://www.principaltechnologies.com/)
 ### Nine Collective
-{% img /images/sponsors/pluralsight.png 400 "NineCollective"  "NineCollective" %}
+{% img /images/sponsors/ninecollective.png 400 "NineCollective"  "NineCollective" %}
 
 [Nine Collective](http://www.ninecollective.com/)
 ### Brightbit
-{% img /images/sponsors/pluralsight.png 400 "Brightbit"  "Brightbit Application Development"%}
+{% img /images/sponsors/brightbit.png 400 "Brightbit"  "Brightbit Application Development"%}
 
 [Brightbit App Development](http://www.brightb.it)
 
