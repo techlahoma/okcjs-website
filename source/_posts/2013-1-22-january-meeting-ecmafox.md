@@ -8,6 +8,10 @@ tags: [Ecmascript, Yuri Delendik]
 ---
 {% img /images/posters/2013-january-22-ecmafox.jpg 700 Ecmafox %}
 
+
+{% img  /okcjs-website/images/posters/2013-january-22-ecmafox.jpg  700 "More like Wrekt-maFox, right?" "Ecmascript with Yury Delendik
+
+
 ## This Month
 
 Meeting January 22, 2013 @The Exchange

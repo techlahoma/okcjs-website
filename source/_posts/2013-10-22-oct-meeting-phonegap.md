@@ -6,7 +6,8 @@ comments: true
 tags: [Phonegap, Jeff French, mobile]
 
 ---
-{% img /images/posters/2013-0ct-phonegap.png 700 Jeff French %}
+
+{% img  /okcjs-website/images/posters/2013-0ct-phonegap.png  700 "Beats PhoneOldNavy" "Phonegap with Jeff French" %}
 
 ##This Month
 Tuesday: Sept 17, 2013 

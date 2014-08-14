@@ -7,7 +7,8 @@ tags: [Atumn Cueller, Karl Kirch, Dennis Ferron, Jeremy Green]
 categories: [Lightning Talks]
 
 ---
-{% img /images/posters/2014-jan-lightning.png 700 Get it together, Raiden!!!%}
+
+{% img  /okcjs-website/images/posters/2014-jan-lightning.png  700 "Get it together, Raiden!!!" "Lightning Talks IV" %}
 
 ##This Month
 Tuesday: Dec 17, 2013 

@@ -6,7 +6,9 @@ comments: true
 tags: [Ember.js, Mustache, Jeremy Green, client frameworks]
 
 ---
-{% img /images/posters/2013-June-Emberjs.png 700 Emberjs %}
+
+{% img  /okcjs-website/images/posters/2013-June-Emberjs.png  700 "Ember was a bright idea." "Ember.js with Jeremy Green" %}
+
 
 ## This Month
 

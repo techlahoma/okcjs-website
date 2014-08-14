@@ -6,7 +6,8 @@ comments: true
 tags: [Impact.js, html5, games, Jesse Harlin]
 
 ---
-{% img /images/posters/2013-may-impactjs.png 700 Impactjs %}
+
+{% img  /okcjs-website/images/posters/2013-may-impactjs.png  700 "Featuring the debut title: Lets go to OKc.js" "Impact.js with Jesse Harlin" %}
 
 ## This Month
 

@@ -7,7 +7,9 @@ tags: [Jonathan Camenisch, Jeff French, Jesse Harlin, Ben Vantreese, Jordan Rous
 categories: [Lightning Talks]
 
 ---
-{% img /images/posters/2013-aug-lightning-talks-III.png 700 Javascript Kombat %}
+
+
+{% img  /okcjs-website/images/posters/2013-aug-lightning-talks-III.png  700 "Javascript Kombat: ONly Friendship Fatalities allowed" "Lightning Talks III" %}
 
 ##This Month
 Tuesday: August 20, 2013 

@@ -7,7 +7,8 @@ tags : [Shane King, Jesse Harlin, Amanda Harlin]
 categories: [Lightning Talks]
 
 ---
-{% img /images/posters/2013-April-lightning-Talks.jpg 700 LightningTalks %}
+
+{% img  /okcjs-website/images/posters/2013-April-lightning-Talks.jpg  700 "Lightning Again. Because we want another stroke of it." "Lightning Talks II" %}
 
 ## This Month
 

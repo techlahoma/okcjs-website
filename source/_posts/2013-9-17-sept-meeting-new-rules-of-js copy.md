@@ -6,7 +6,8 @@ comments: true
 tags: [Javascript, Kyle Simpson, You Don't Know Js]
 
 ---
-{% img /images/posters/2013-sept-new-rules-of-js.jpg 700 Kyle Simpson %}
+
+{% img  /okcjs-website/images/posters/2013-sept-new-rules-of-js.jpg  700 "The first rule of Javascript Club..." "The new Rules of Javascript with Kyle Simpson" %}
 
 ##This Month
 Tuesday: Sept 17, 2013 

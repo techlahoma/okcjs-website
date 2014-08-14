@@ -6,7 +6,9 @@ comments: true
 tags: [Firefox OS, Yury Delendik, mobile, operating system]
 
 ---
-{% img /images/posters/2013-July-FirefoxOs.png 700 Firefox OS %}
+
+{% img  /okcjs-website/images/posters/2013-July-FirefoxOs.png  700 "FirefoxOS: Breakfast Serial" "Firefox OS with Yury Delendik" %}
+
 
 ##This Month
 Tuesday: July 23, 2013 

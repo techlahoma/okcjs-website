@@ -6,7 +6,8 @@ comments: true
 tags: [Howler.js, James Simpson, audio]
 
 ---
-{% img /images/posters/2013-nov-howlerjs.jpg 700 James Simpson%}
+
+{% img  /okcjs-website/images/posters/2013-nov-howlerjs.jpg  700 "Howwwwwwwwwwwwwler!" "Howler with James Simpson" %}
 
 ##This Month
 Tuesday: Nov 19, 2013 

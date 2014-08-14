@@ -6,7 +6,8 @@ comments: true
 tags: [Yeoman, Jesse Harlin, scaffolding, automation]
 
 ---
-{% img /images/posters/2014-feb-yeoman.jpg 700 Yo,Man.%}
+
+{% img  /okcjs-website/images/posters/2014-feb-yeoman.jpg  700 "Yo, man!" "Yeoman with Jesse Harlin" %}
 
 ##This Month
 Tuesday: Feb 18, 2014 

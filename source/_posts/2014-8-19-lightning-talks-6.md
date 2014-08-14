@@ -4,11 +4,13 @@ date: 2014-8-19 11:30
 comments: true
 tags: [Lightning Talks,Rick Yoesting,Caleb Creed,Phillip Sipe,Karl Kirch]
 categories: [Lightning Talks]
-
+post_asset_folder: true
 ---
-{% img /images/posters/2014-august-lightning-6.png 700 %}
+
+{% img  /okcjs-website/images/posters/2014-august-lightning-6.png 700 "Lightning Talks 6" "Lightning Talks 6" %}
 
 ##This Month
+
 Tuesday: August 19, 2014
 
 11:30 am
@@ -53,7 +55,7 @@ These awesome folks serve the Oklahoma City tech job market and we thank them fo
 
 [Prototek](http://prototekokc.com/) Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.
 
-{% img /images/sponsors/prototek.png 700 %}
+![Prototek OKC](/okcjs-website/images/sponsors/prototek.png)
 
 401 NW 10th St, Oklahoma City, Oklahoma 73103
 

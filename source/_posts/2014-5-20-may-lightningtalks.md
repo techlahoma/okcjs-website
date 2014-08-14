@@ -6,7 +6,8 @@ comments: true
 tags: [Lightning Talks, Karl Kirch, Rick Yoesting, Shane King, Rob Sullivan]
 categories: [Lightning Talks]
 ---
-{% img /images/posters/2014-may-lightning-5.jpg 700 %}
+
+{% img  /okcjs-website/images/posters/2014-may-lightning-5.jpg 700 "Zzzt" "Lightning Talks V" %}
 
 ##This Month
 Tuesday: May 20, 2013 
