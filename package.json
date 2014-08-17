@@ -10,6 +10,7 @@
     "hexo-generator-feed": "^0.2.0"
   },
   "devDependencies": {
-    "hexo-broken-link-checker": "^1.0.3"
+    "hexo-broken-link-checker": "^1.0.3",
+    "hexo-generator-minify": "^0.1.0"
   }
 }
