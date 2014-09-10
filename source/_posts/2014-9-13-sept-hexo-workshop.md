@@ -19,7 +19,7 @@ Oklahoma City, Oklahoma
 
 
 ##About "Hexo.io Workshop"
-This workshop will teach how to cusotmize, update and run your new Node.js blogging platform and then deploy its static version easily via Github Pages. User group leaders, volunteers, and intersted community members are encouraged to attend. Please bring your own lunch or select from the many nearby midtown restaurants.
+This workshop will teach how to customize, update and run your new Node.js blogging platform and then deploy its static version easily via Github Pages. User group leaders, volunteers, and interested community members are encouraged to attend. Please bring your own lunch or select from the many nearby midtown restaurants.
 
 ##After Party 
 <!-- more -->
