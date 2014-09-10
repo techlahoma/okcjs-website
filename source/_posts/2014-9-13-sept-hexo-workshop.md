@@ -7,9 +7,7 @@ tags: [Hexo.io, Node.js, Blogging Framework]
 
 ---
 
-{% img  /images/posters/2014-sept-3D-in-browser.png 700  "Jesse plz make a graphic 4 this" "Hexo.io Workshop" %}
-
-##This Month
+##Hexo.io Workshop Details
 Saturday: Sept 13, 2014
 
 10:00 am - 3:00 pm
