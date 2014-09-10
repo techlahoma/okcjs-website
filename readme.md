@@ -1,7 +1,10 @@
 #OKC.js
 ---
 
-This is the basis for the Oklahoma City Javascript user group's website. This is asimply blog- type site powered by hexo, with a modified metro-lite theme. This currently supports multiple languages, and also has the ability to add plugins, as necessary.
+![OKCjs](http://i.imgur.com/4IHEiat.png)
+
+
+This is the basis for the Oklahoma City Javascript user group's website. This is asimply blog-type site powered by hexo, using the okcjs-hexo-theme. This currently supports multiple languages, and also has the ability to add plugins, as necessary.
 
 
 
