@@ -21,9 +21,10 @@ Oklahoma City, Oklahoma
 ##About "Hexo.io Workshop"
 This workshop will teach how to customize, update and run your new Node.js blogging platform and then deploy its static version easily via Github Pages. User group leaders, volunteers, and interested community members are encouraged to attend. Please bring your own lunch or select from the many nearby midtown restaurants.
 
-##After Party 
 <!-- more -->
-Once the Hexo workshop is wrapped up we'll be having a clean-a-thon at Prototek. Hack your makerspace into some place inspiring and accessible.
+
+##After Party 
+Once the Hexo workshop is wrapped up we'll be having a clean-a-thon at Prototek. from 3:00pm - 6:00pm. Hack your makerspace into some place inspiring and accessible.
 
 
 ## About our Instructors
@@ -46,10 +47,10 @@ Meeting space is provided thanks to [Prototek](http://www.prototekokc.com). Thes
 
 ## workshop.location = Prototek;
 
-[Prototek](http://prototekokc.com/) Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City. Find Prototek at 401 NW 10th St, Oklahoma City, Oklahoma 73103. 
+[Prototek](http://prototekokc.com/) Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City. Find Prototek at 401 NW 10th St, Oklahoma City, Oklahoma 73103. Get directions via [Google maps](https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415).
 {% img  /images/sponsors/prototek.png [700] [Prototek OKC] %}
 
 Parking options include: street parking facing West on NW 10th, the dirt lot adjacent to Prototek on N Hudson Ave, or parking next to Prototek facing South.
 {%img /images/misc/parkingatprototek.jpg [700] [Parking at Prototek] %}
 
-Get directions via [Google maps](https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415).
+
