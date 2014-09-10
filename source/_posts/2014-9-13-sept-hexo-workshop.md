@@ -19,12 +19,15 @@ Oklahoma City, Oklahoma
 
 
 ##About "Hexo.io Workshop"
-This workshop will teach how to customize, update and run your new Node.js blogging platform and then deploy its static version easily via Github Pages. User group leaders, volunteers, and interested community members are encouraged to attend. Please bring your own lunch or select from the many nearby midtown restaurants.
+This workshop will teach how to customize, update and run your new Node.js blogging platform and then deploy its static version easily via Github Pages. User group leaders, volunteers, and interested community members are encouraged to attend. 
 
 <!-- more -->
 
+##Workshop Details
+Please bring your own laptop computer to the event if you would like to code along. Additionally, please bring your own lunch or select from the many nearby midtown restaurants. Techlahoma will provide coffee and water throughout the day for attendees.
+
 ##After Party 
-Once the Hexo workshop is wrapped up we'll be having a clean-a-thon at Prototek. from 3:00pm - 6:00pm. Hack your makerspace into some place inspiring and accessible.
+Once the Hexo workshop is wrapped up we'll be having a clean-a-thon at Prototek from 3:00pm - 6:00pm. Hack your makerspace into some place inspiring and accessible.
 
 
 ## About our Instructors
@@ -41,14 +44,18 @@ I am a .Net developer by day and a bookworm by night. My wife, Collin, is a star
 
 ### Our Sponsors
 
-Techlahoma will be providing water and coffee for attendees and has donated time to create the lesson plan and organize this event and the chairs, projector, screen, and whiteboard to be used at the Prototek maker space.
+{%img /images/sponsors/techlahoma_1.png [700] [Techlahoma Foundation] %}
+
+Techlahoma is organizing the Hexo.io workshop and hopes to put on many more events in the future. If you would like to team up with Techlahoma to organize, volunteer, or sponsor a workshop, hackathon, usergroup, or conference please [contact us](mailto:techlahoma@gmail.com).
+
+{% img  /images/sponsors/prototek.png [700] [Prototek OKC] %}
 
 Meeting space is provided thanks to [Prototek](http://www.prototekokc.com). These awesome folks are passionate about creating a vibrant maker space in Oklahoma City. We thank them for providing meeting space for user groups and events. Prototek is collaborating with Techlahoma to create a positive impact on our tech community, which is an epic win for everyone!
 
 ## workshop.location = Prototek;
 
 [Prototek](http://prototekokc.com/) is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City. Find Prototek at 401 NW 10th St, Oklahoma City, Oklahoma 73103. Get directions via [Google maps](https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415).
-{% img  /images/sponsors/prototek.png [700] [Prototek OKC] %}
+
 
 Parking options include: street parking facing West on NW 10th, the dirt lot adjacent to Prototek on N Hudson Ave, or parking next to Prototek facing South.
 {%img /images/misc/parkingatprototek.jpg [700] [Parking at Prototek] %}
