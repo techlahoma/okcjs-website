@@ -3,9 +3,11 @@ layout: post
 title: "Workshop: Sept 13 - Hexo.io Community Workshop"
 date: 2014-9-13 10:00
 comments: true
-tags: [Hexo.io, Node.js, Blogging Framework]
+tags: [Hexo.io, Node.js, Blogging Framework, Jesse Harlin, Jessica Campbell]
 
 ---
+
+{% img  /images/special_events/Hexo_is_sexo.png 940  "Hexo Workshop"  %}
 
 ##Hexo.io Workshop Details
 Saturday: Sept 13, 2014
@@ -16,8 +18,6 @@ Saturday: Sept 13, 2014
 401 NW 10th,
 Oklahoma City, Oklahoma
 73101
-
-{% img  /images/special_events/Hexo_is_sexo.png 940  "Hexo Workshop"  %}
 
 
 ##About "Hexo.io Workshop"
