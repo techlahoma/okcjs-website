@@ -17,6 +17,8 @@ Saturday: Sept 13, 2014
 Oklahoma City, Oklahoma
 73101
 
+{% img  /images/special_events/Hexo_is_sexo.png 940  "Hexo Workshop"  %}
+
 
 ##About "Hexo.io Workshop"
 This workshop will teach how to customize, update and run your new Node.js blogging platform and then deploy its static version easily via Github Pages. User group leaders, volunteers, and interested community members are encouraged to attend. 
