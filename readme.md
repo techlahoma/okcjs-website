@@ -17,7 +17,7 @@ This is the basis for the Oklahoma City Javascript user group's website. This is
 3. Clone the repository.
   * If you already have cloned the repo, please check that your clone is up to date.
 4. Clone the okcjs theme into ```themes/okcjs/```
-  * hexo-theme-okcjs repo: [https://github.com/techlahoma/hexo-theme-okcjs]
+  * hexo-theme-okcjs repo: [https://github.com/techlahoma/hexo-theme-okcjs](https://github.com/techlahoma/hexo-theme-okcjs)
 5. Run ```npm install``` from the root folder of your cloned repo.
   * Even though you've installed hexo, you must do this after the initial cloning.
 6. You can start the server with ```hexo server``` on the command line.
