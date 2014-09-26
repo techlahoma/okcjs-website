@@ -4,7 +4,7 @@ title: "Workshop: Sept 13 - Hexo.io Community Workshop"
 date: 2014-9-13 10:00
 comments: true
 tags: [Hexo.io, Node.js, Blogging Framework, Jesse Harlin, Jessica Campbell]
-
+categories: [Workshop]
 ---
 
 {% img  /images/special_events/Hexo_is_sexo.png 940  "Hexo Workshop"  %}
