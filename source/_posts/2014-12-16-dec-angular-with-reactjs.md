@@ -17,7 +17,13 @@ Oklahoma City, Oklahoma
 
 
 ##About "Angular with React.js"
-[talk description]
+Apples and Oranges. Oil and Water. The Capulets and Montagues.
+
+...Angular and React?
+
+It's all over the blogs and at every conference. They come from different worlds. One uses two-way binding. The other uses one-way. One is highly declarative; the other is "code-first". One wears short skirts, the other wears T-shirts. But, that doesn't mean one gets to be cheer captain while the other sits on the bleachers.
+
+Let's look at both of these popular tools and see what they have to offer. Let's discuss them; not from a standpoint of "better and worse" but "where and why". This talk will be a bit of an overview of both tools, followed by a deeper dive into the mentality between the two.
 
 <!-- more -->
 
@@ -25,8 +31,7 @@ Oklahoma City, Oklahoma
 
 ### Jesse Harlin
 
-I work as a Javascript application architect at Telogical Systems where I work with an awesome team making cutting edge web applications. When I’m not doing this, I am very active in the local technology community. I help run the Oklahoma City Javascript Usergroup, Techlahoma and co-organize Thunder Plains, one of Oklahoma’s most relevant Javascript and web technology conferences.
-I love my wife, performing puppet shows for the blind, and building cool stuff with Javascript.
+Jesse loves JavaScript, algorithmic music composition, and Amanda. He is the R&D department and client-side architect at Telogical. He co-founded OKCjs, ThunderPlains, and the Techlahoma Foundation.
 
 ### Our Sponsors
 Meeting space is provided thanks to [Prototek](http://www.prototekokc.com). These awesome folks are passionate about creating a vibrant maker space in Oklahoma City. We thank them for providing meeting space for user groups and events. Prototek is collaborating with Techlahoma to create a positive impact on our tech community, which is an epic win for everyone!
