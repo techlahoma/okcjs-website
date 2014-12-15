@@ -3,7 +3,7 @@ date: 2014-12-14 10:58:33
 comments: true
 ---
 
-
+Our [okcjs community](https://github.com/techlahoma/okcjs-website/wiki/Educational-Resources) has recommended the following JavaScript resources. We hope you will enjoy your coding adventure! 
 
 Suggestions for learning JS:
 
