@@ -13,8 +13,8 @@ Video by [Jesse Harlin](http://www.jesseharlin.net/)
 
 
 okcjs volunteers:
-* jesse harlin
-* amanda harlin
-* jessica campbell
-* devin clark
-* vance lucas
+* [Jesse Harlin](http://jesseharlin.net/), co-founder
+* [Vance Lucas](http://vancelucas.com/), co-founder
+* [Jessica Campbell](http://seejessicacode.com/), organizers' organizer
+* [Amanda Harlin](http://amandaharlin.com), posts online
+* [Devin Clark](http://devin-clark.com/), poster artist
