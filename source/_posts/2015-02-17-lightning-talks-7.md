@@ -1,7 +1,7 @@
 layout: post
 title: "Meeting: February 17 - Lightning Talks 8"
 comments: true
-tags: [Lightning Talks]
+tags: [Lightning Talks, Ryan LaBouve, Carmen Long, Mike Bockus, Blaine Schmeisser, Karl Kirch]
 categories: [Lightning Talks]
 ---
 
@@ -27,15 +27,15 @@ Common talk themes include: problems you've solved, libraries you like, a cool b
 
 ####Here is this month's lineup!
 ----------------------------------------------------------
-- ######[Speaker #1's topic] by [[Speaker #1](http://www.okcjs.org)]
+- ######Content Security Policy (with Ember.js example) by [Ryan LaBouve](http://ryanlabouve.com/)
 
-- ######[Speaker #2's topic] by [[Speaker #2](http://www.okcjs.org)]
+- ######Console JS Game by [Carmen Long](https://twitter.com/carmalou)
 
-- ######[Speaker #3's topic] by [[Speaker #3](http://www.okcjs.org)]
+- ######Samsung Gear Development with the Tizen SDK by [Mike Bockus](https://twitter.com/mikebockus)
 
-- ######[Speaker #4's topic] by [[Speaker #4](http://www.okcjs.org)]
+- ######Node REPL by [Blaine Schmeisser](http://www.blainesch.com/)
 
-- ######[Speaker #5's topic] by [[Speaker #5](http://www.okcjs.org)]
+- ######Gamedev with Vanilla.js by [Karl Kirch](http://joekarl.github.io/)
 
 <!-- more -->
 
