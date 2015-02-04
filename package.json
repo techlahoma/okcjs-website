@@ -1,14 +1,19 @@
 {
   "name": "hexo-site",
-  "version": "2.8.3",
+  "version": "2.7.1",
   "private": true,
   "dependencies": {
-    "hexo-generator-feed": "^0.2.0",
+    "hexo-front-matter": "^0.2.1",
+    "hexo-generator-feed": "^0.2.1",
+    "hexo-generator-minify": "^0.1.0",
     "hexo-generator-sitemap": "^0.2.0",
+    "hexo-pagination": "0.0.2",
     "hexo-renderer-ejs": "*",
+    "hexo-renderer-markdownjs": "0.0.1",
     "hexo-renderer-marked": "*",
     "hexo-renderer-stylus": "*",
-    "hexo-tag-googlemaps": "*"
+    "hexo-tag-googlemaps": "*",
+    "hexo-util": "^0.1.2"
   },
   "devDependencies": {
     "hexo-broken-link-checker": "^1.0.3",

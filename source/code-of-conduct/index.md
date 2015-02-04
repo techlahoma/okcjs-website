@@ -1,6 +1,7 @@
 title: Techlahoma's Code of Conduct
 date: 2014-08-13 03:19:41
 comments: true
+layout: true
 ---
 
 We expect all participants will be considerate, respectful, and collaborative at all community events. 
