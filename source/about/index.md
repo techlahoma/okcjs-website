@@ -1,6 +1,7 @@
 title: The Legend of OKC.js
 date: 2014-08-14 11:26:05
 comments: true
+layout: true
 ---
 
 
