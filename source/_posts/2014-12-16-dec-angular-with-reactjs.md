@@ -46,4 +46,8 @@ Tasty lunch will be served thanks to [Techlahoma](http://techlahoma.org/).
 
 401 NW 10th St, Oklahoma City, Oklahoma 73103
 
+{% googlemaps 35.478527 -97.519417 17%}
+  Prototek OKC, 35.478527, -97.519417, http://google-maps-icons.googlecode.com/files/tools.png
+{% endgooglemaps %}
+
 Get directions via [Google maps](https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415).
