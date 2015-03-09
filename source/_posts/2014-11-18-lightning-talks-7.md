@@ -54,5 +54,3 @@ Tasty lunch will be served thanks to [Techlahoma](http://techlahoma.org/).
 401 NW 10th St, Oklahoma City, Oklahoma 73103
 
 
-{% googlemaps 35.478537 -97.519445 15 %}
-
