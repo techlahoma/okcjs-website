@@ -52,11 +52,14 @@ These awesome folks serve the Oklahoma City tech job market and we thank them fo
 
 ## usergroup.location = Prototek;
 
-
 [Prototek](http://prototekokc.com/) Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.
 
-![Prototek OKC](/images/sponsors/prototek.png)
+{% img  /images/sponsors/prototek.png [700] [Prototek OKC] %}
 
 401 NW 10th St, Oklahoma City, Oklahoma 73103
+
+{% googlemaps 35.478527 -97.519417 17%}
+  Prototek OKC, 35.478527, -97.519417, http://google-maps-icons.googlecode.com/files/tools.png
+{% endgooglemaps %}
 
 Get directions via [Google maps](https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415).
