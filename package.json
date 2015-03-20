@@ -17,7 +17,7 @@
     "hexo-renderer-ejs": "*",
     "hexo-renderer-markdownjs": "0.0.1",
     "hexo-renderer-marked": "^0.2.5",
-    "hexo-renderer-stylus": "*",
+    "hexo-renderer-stylus": "^0.2.3",
     "hexo-server": "^0.1.2",
     "hexo-tag-googlemaps": "^1.0.0",
     "hexo-util": "^0.1.2"
