@@ -23,10 +23,9 @@
     "hexo-util": "^0.1.2"
   },
   "hexo": {
-    "version": "3.0.0"
+    "version": "3.0.1"
   },
   "devDependencies": {
-    "hexo-broken-link-checker": "^1.0.3",
-    "hexo-generator-minify": "^0.1.0"
+    "hexo-broken-link-checker": "^1.0.3"
   }
 }
