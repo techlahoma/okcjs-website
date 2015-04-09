@@ -12,6 +12,17 @@ This is the basis for the Oklahoma City Javascript user group's website. This is
 
 ### Getting Started
 
+####Short Version
+
+```sh
+ git clone git@github.com:techlahoma/okcjs-website.git
+ cd okcjs-website
+ git clone https://github.com/techlahoma/hexo-theme-okcjs.git themes/okcjs
+ npm install
+ hexo server
+```
+
+####Longer Version:
 1. Make sure you have [node](http://nodejs.org/download/) installed.
 2. Install hexo if you haven't already. ```npm install hexo -g```
 3. Clone the repository.
@@ -23,6 +34,8 @@ This is the basis for the Oklahoma City Javascript user group's website. This is
 6. You can start the server with ```hexo server``` on the command line.
 7. Always submit news posts as a pull request. **Do not push directly to master.**
 8. Full hexo documentation located at [http://hexo.io/docs/](http://hexo.io/docs/).
+
+
 
 ### Posting Events
 
