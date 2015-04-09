@@ -4,28 +4,28 @@
   "private": true,
   "dependencies": {
     "hexo": "^3.0.0",
-    "hexo-deployer-git": "0.0.3",
-    "hexo-front-matter": "^0.2.1",
-    "hexo-generator-archive": "^0.1.1",
-    "hexo-generator-category": "^0.1.1",
+    "hexo-deployer-git": "0.0.x",
+    "hexo-front-matter": "0.2.x",
+    "hexo-generator-archive": "0.1.x",
+    "hexo-generator-category": "0.1.x",
     "hexo-generator-feed": "*",
-    "hexo-generator-index": "^0.1.0",
-    "hexo-generator-minify": "^0.1.0",
+    "hexo-generator-index": "0.1.x",
+    "hexo-generator-minify": "0.1.x",
     "hexo-generator-sitemap": "*",
-    "hexo-generator-tag": "^0.1.0",
-    "hexo-pagination": "0.0.2",
+    "hexo-generator-tag": "0.1.x",
+    "hexo-pagination": "0.0.x",
     "hexo-renderer-ejs": "*",
-    "hexo-renderer-markdownjs": "0.0.1",
+    "hexo-renderer-markdownjs": "0.0.x",
     "hexo-renderer-marked": "*",
     "hexo-renderer-stylus": "*",
-    "hexo-server": "^0.1.2",
+    "hexo-server": "0.1.x",
     "hexo-tag-googlemaps": "*",
-    "hexo-util": "^0.1.2"
+    "hexo-util": "0.1.x"
   },
   "hexo": {
     "version": "3.0.1"
   },
   "devDependencies": {
-    "hexo-broken-link-checker": "^1.0.3"
+    "hexo-broken-link-checker": "1.0.x"
   }
 }
