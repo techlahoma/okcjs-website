@@ -6,7 +6,7 @@ tags: [Jesse Harlin, complexity, SLOC, Halstead complexity, Linting]
 ---
 {% img /images/posters/2015-June-Unbraiding-JS.png 700 "Unbraiding JavaScript" "Unbraiding JavaScript" %}
 
-{% meetup_btn http://www.meetup.com/OKC-js/events/220878529/ %}
+{% meetup_btn http://www.meetup.com/OKC-js/events/223055050/ 674 %}
 
 ##This Month
 Tuesday: June 16, 2015
