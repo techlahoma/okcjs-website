@@ -2,12 +2,14 @@ layout: post
 title: {{ title }}
 date: {{ date }}
 comments: true
-tags:
+tags: [example1, example2]
 ---
 
 [poster image]
 
-##This Month
+{% meetup_btn [meetup event link] 674 %}
+
+## This Month
 Tuesday: Mmm dd, yyyy
 
 11:30 am
@@ -18,7 +20,7 @@ Oklahoma City, Oklahoma
 73101
 
 
-##About "[talk title]"
+## About "[talk title]"
 [talk description]
 
 ## About our Speaker
