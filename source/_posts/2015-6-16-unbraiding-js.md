@@ -8,7 +8,7 @@ tags: [Jesse Harlin, complexity, SLOC, Halstead complexity, Linting]
 
 {% meetup_btn http://www.meetup.com/OKC-js/events/223055050/ 674 %}
 
-##This Month
+## This Month
 Tuesday: June 16, 2015
 
 11:30 am
@@ -19,7 +19,7 @@ Oklahoma City, Oklahoma
 73103
 
 
-##About "Unbraiding JavaScript"
+## About "Unbraiding JavaScript"
 The enemy. Knowing it is in your project keeps you up at night. You can feel the technical debt accumulating. There are files in your code base developers are afraid to modify. Training programmers on a new project is taking longer than it should. You feel like you are bailing water out of a boat during a rainstorm. What is this force of destruction that grows like blight in your source? Complexity!
 
 Complexity is the enemy.

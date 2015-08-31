@@ -9,7 +9,7 @@ tags: [Karl Kirch, WebGL]
 
 {% meetup_btn http://www.meetup.com/OKC-js/events/223701815/ 674 %}
 
-##This Month
+## This Month
 Tuesday: Jul 21, 2015
 
 11:30 am
@@ -20,7 +20,7 @@ Oklahoma City, Oklahoma
 73101
 
 
-##About "WebGL - The Hard Way"
+## About "WebGL - The Hard Way"
 WebGL. We've all heard about how it's bringing 3D to the web. Games are adopting WebGL, 3D model viewers are adopting WebGL, and industrial applications are adopting WebGL for 3D. What you may not realize is it's the future of 2D graphics as well. Google maps, MapboxGL, Youtube, and lots of games are using WebGL to do things that just aren't possible with Canvas. This is not just true for the web and WebGL but for desktop and mobile applications that use OpenGL. WebGL is a great way to learn the current state of the art for web graphics and hone your graphics skills across all platforms.
 
 Unfortunately WebGL is hard :( and most tutorials are either horribly out of date, or just suggest using a framework like Three.js (which is a great framework but doesn't teach you much about the guts of WebGL). Fortunately with some simple explanation, WebGL can be tamed and be a fun, valuable tool in your toolbelt. In this talk I'll give you the key pieces that you need to know to use WebGL, show you how to get started, and where to go from there.

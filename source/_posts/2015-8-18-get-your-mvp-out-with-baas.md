@@ -9,7 +9,7 @@ tags: [Pulkit Singhal, BaaS]
 
 {% meetup_btn http://www.meetup.com/OKC-js/events/224359263/ 674 %}
 
-##This Month
+## This Month
 Tuesday: Aug 18, 2015
 
 11:30 am
@@ -20,7 +20,7 @@ Oklahoma City, Oklahoma
 73101
 
 
-##About "Get your MVP out with BaaS"
+## About "Get your MVP out with BaaS"
 Overview of various pros and cons for deciding if a BaaS can add value and help get your MVP out the door.
 
 ## About our Speaker

@@ -12,7 +12,7 @@ categories: [Lightning Talks]
 </div>
 {% endraw %}
 
-##This Month
+## This Month
 Tuesday: May 19, 2015
 
 11:30 am
@@ -23,7 +23,7 @@ Oklahoma City, Oklahoma
 73103
 
 
-##About "Lightning Talks: 9"
+## About "Lightning Talks: 9"
 Lightning Talks are a really fun event we put on every 3 months. Community members have 5 to 10 minutes to talk about JavaScript or topics related to JavaScript. We give preference to new speakers to strengthen our community. To participate: post your topic and presentation length.
 
 Common talk themes include: problems you've solved, libraries you like, a cool blog post you read, something you're working on now, or pretty much any other way you’re using JavaScript to achieve your goals. Please note that marketing pitches are not allowed; lightning talks are a community enrichment event.
