@@ -25,7 +25,7 @@ We all want to learn how to efficiently create solutions in a reliable, secure, 
 
 ## About our Speaker
 
-### Mike Brockus
+### Mike Bockus
 Mike is a software engineer at Cox Communications where he enjoys being paid with extra cable channels and faster internet. When he's not spending quality time with his family or working, he enjoys making useless Android apps that have earned tens of dollars and starting a bunch of side projects that will never be finished.
 [Mike's Twitter](https://twitter.com/MikeBockus)
 
