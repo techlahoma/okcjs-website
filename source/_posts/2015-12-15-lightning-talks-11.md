@@ -34,6 +34,8 @@ Common talk themes include: problems you've solved, libraries you like, a cool b
 
 - ###### Ranking everything with Sylvester (5 min) by [James England](https://twitter.com/JEinOKC)
 
+- ###### Improving the quality of your CSS build pipeline with post processing (10 min) by [Jesse Harlin](http://jesseharlin.net/)
+
 <!-- more -->
 
 ### Our Sponsors
