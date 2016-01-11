@@ -5,9 +5,9 @@ comments: true
 tags: [JavaScript, Static site generator, Continous Deployment, David Roberts]
 ---
 
-{% img /images/posters/to-be-determined.png 700 "Continuously deploy with nearly any static site tool" "Continuously deploy with nearly any static site tool" %}
+{% img /images/posters/2016-January-CD-Static-Tool.png 700 "Continuously deploy with nearly any static site tool" "Continuously deploy with nearly any static site tool" %}
 
-{% meetup_btn to-be-determined 674 %}
+{% meetup_btn http://www.meetup.com/OKC-js/events/226641380/ 674 %}
 
 ## This Month
 Tuesday: Jan 19, 2016
@@ -21,13 +21,15 @@ Oklahoma City, Oklahoma
 
 
 ## About "Continuously deploy with nearly any static site tool"
-You may have used the Jekyll integration in Github Pages for your site; but moved onto some other static tool or host. In this talk you will see how to regain a continuous deploy process for virtually any static site generator; with the added benefit of site previews of contributions. Join us and discover how you can keep delivering and have your static site too.
+You may have used the Jekyll integration in Github Pages for your site; but moved onto some other static tool or host. In this talk you will see how to regain a continuous deployment process for virtually any static site generator; with the added benefit of site previews of contributions. Join us and discover how you can keep delivering and have your static site too.
 
 ## About our Speaker
 
 ### David Roberts
 
 A developer for developers, David enjoys focusing on solutions and improvements to the devloper's workflow. Implementing and improving the development pipeline via version control, builds, reviews, deployments and monitoring; David's goal is to become obsolete through automation. You can read more of his work at his blog [TeapotCoder](http://teapotcoder.com)
+
+Twitter: [@davidroberts63](https://twitter.com/davidroberts63
 <!-- more -->
 
 ### Our Sponsors
