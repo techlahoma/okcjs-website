@@ -29,7 +29,7 @@ You may have used the Jekyll integration in Github Pages for your site; but move
 
 A developer for developers, David enjoys focusing on solutions and improvements to the devloper's workflow. Implementing and improving the development pipeline via version control, builds, reviews, deployments and monitoring; David's goal is to become obsolete through automation. You can read more of his work at his blog [TeapotCoder](http://teapotcoder.com)
 
-Twitter: [@davidroberts63](https://twitter.com/davidroberts63
+Twitter: [@davidroberts63](https://twitter.com/davidroberts63)
 <!-- more -->
 
 ### Our Sponsors
