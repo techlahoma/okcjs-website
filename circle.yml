@@ -1,0 +1,25 @@
+checkout:
+  post:
+    - git submodule sync
+    - git submodule update --init
+test:
+  override:
+    - npm install -g hexo-cli
+    - hexo server:
+        background: true
+    - sleep 2
+    - phantomjs ./screenshots.js
+notify:
+  webhooks:
+    - url: https://damp-castle-3334.herokuapp.com/pr-build-completion
+deployment:
+  production:
+    branch: master
+    commands:
+      - git config --global user.name "CircleCI"
+      - git config --global user.email "noone@okcsharp.net"
+      - sed -i'' "s~git@github.com:techlahoma/okcjs-website.git~https://${GH_TOKEN}:x-oauth-basic@github.com/techlahoma/okcjs-website.git~" _config.yml
+      - rm -rf .deploy_git/
+      - hexo clean
+      - hexo generate
+      - hexo deploy
