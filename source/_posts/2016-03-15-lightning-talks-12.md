@@ -30,9 +30,9 @@ Common talk themes include: problems you've solved, libraries you like, a cool b
 ----------------------------------------------------------
 - ###### The 3 Rules of Dev Blogging (10 min) by [Aaron Krauss](https://twitter.com/thecodeboss)
 
-- ###### Eschewing the need for a task runner (3 min) by [Benji Kay](https://twitter.com/okaybenji)
+- ###### Eschewing the Need for a Task Runner (3 min) by [Benji Kay](https://twitter.com/okaybenji)
 
-- ###### Beginner talk on JavaScript, Games, and Unity (5 min) by [Caitlin Stewart](https://twitter.com/CaitlinPlusPlus)
+- ###### Beginner Talk on Games with JavaScript (5 min) by [Caitlin Stewart](https://twitter.com/CaitlinPlusPlus)
 
 - ###### Code Security in the Internet of Things (5 min) by [Andrew Long](https://twitter.com/theNetruist)
 
