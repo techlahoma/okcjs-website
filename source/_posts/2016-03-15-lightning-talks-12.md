@@ -30,7 +30,7 @@ Common talk themes include: problems you've solved, libraries you like, a cool b
 ----------------------------------------------------------
 - ###### The 3 Rules of Dev Blogging (10 min) by [Aaron Krauss](https://twitter.com/thecodeboss)
 
-- ###### Eschewing the Need for a Task Runner (3 min) by [Benji Kay](https://twitter.com/okaybenji)
+- ###### NPM Client-Side Without a Task Runner (3 min) by [Benji Kay](https://twitter.com/okaybenji)
 
 - ###### Beginner Talk on Games with JavaScript (5 min) by [Caitlin Stewart](https://twitter.com/CaitlinPlusPlus)
 
