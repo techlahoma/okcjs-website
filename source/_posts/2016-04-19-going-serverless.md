@@ -1,9 +1,7 @@
 layout: post
 title: "Meeting: April 19 - Going Serverless"
 comments: true
-tags:
-  - Jeremy Green
-  - Serverless
+tags: [Jeremy Green, Serverless]
 date: 2016-04-19
 ---
 
