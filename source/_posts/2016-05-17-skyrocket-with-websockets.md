@@ -21,13 +21,11 @@ Oklahoma City, Oklahoma
 
 
 ## About "Skyrocket with Websockets"
-
 In this talk, we're going to cover how WebSockets work. About 80% of this talk will be a live coding demo where we're going to build a simple chat app using WebSockets with the help of the Socket.io node library - all live coding, explaining everything on the way. In the end, we'll have an application similar to websockets.thesocietea.org. The rest of the time will be dedicated to explaining the WebSocket protocol, how it differs from standard HTTP, and why you should (and maybe shouldn't) use WebSockets in some of your projects today.
 
 ## About our Speaker
 
 ### Aaron Krauss
-
 Aaron Krauss is a Full Stack developer based out of Edmond, Oklahoma. He was born in Germany in 1990, grew up in a German culture for 6 years, and still speak moderately fluent German. Aaron currently works at Clevyr as a web developer, and engages in miscellaneous development on his own time.
 [thesocietea.org](https://thesocietea.org/)
 
