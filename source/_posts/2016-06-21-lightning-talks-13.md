@@ -35,7 +35,7 @@ Common talk themes include: problems you've solved, libraries you like, a cool b
 
 - ###### Computed Properties in Ember and How to Chain Them Together for Fluid Interfaces (10 min) by [John Mosesman](https://twitter.com/johnmosesman)
 
-- ###### Scaling A Websocket Application with RabbitMQ (10 min) by [John pettigrew](https://twitter.com/johnbpettigrew)
+- ###### Scaling A Websocket Application with RabbitMQ (10 min) by [John Pettigrew](https://twitter.com/johnbpettigrew)
 
 <!-- more -->
 
