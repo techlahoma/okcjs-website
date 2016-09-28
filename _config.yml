@@ -78,18 +78,7 @@ pagination_dir: page
 # Disqus
 disqus_shortname: okcjs
 
-# Extensions
-## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
-plugins:
-- hexo-broken-link-checker
-
-# hexo-broken-link-checker plugin
-link_checker:
-  enabled: false
-  storage_dir: temp/link_checker
-  silent_logs: false
-
-## Themes: https://github.com/hexojs/hexo/wiki/Themes
+# Themes: https://github.com/hexojs/hexo/wiki/Themes
 theme: okcjs
 exclude_generator:
 
