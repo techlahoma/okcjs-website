@@ -35,7 +35,7 @@ Please note that marketing pitches are not allowed; lightning talks are a commun
 ----------------------------------------------------------
 - ###### What Meta Tags Your Site Should be Using (10 min) by [Aaron Krauss](https://twitter.com/thecodeboss)
 
-- ###### Node.js Microservice Data/Document Validation Using Hapi.js + Intro to XO Group's Felicity (10 min) by [Wes Tyler](https://twitter.com/westyler1)
+- ###### Node.js document models with Joi and Felicity (10 min) by [Wes Tyler](https://twitter.com/westyler1)
 
 - ###### Packaging Electron Apps for Windows + Adding in Auto Update Functionality (10 min) by [Carmen Long](https://twitter.com/carmalou)
 
