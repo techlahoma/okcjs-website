@@ -2,8 +2,16 @@ layout: post
 title: "Meeting: Dec 20 - Lightning Talks 15"
 comments: true
 tags:
-  - TypeScript
-  - Luke Simkins
+  - Lightning Talks
+  - Meta Tags
+  - Node.js
+  - Joi
+  - Felicity
+  - Electron
+  - Windows
+  - Aaron Krauss
+  - Wes Tyler
+  - Carmen Long
 date: 2016-12-20
 ---
 
