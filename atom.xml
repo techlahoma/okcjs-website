@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://okcjs.com/"/>
-  <updated>2017-01-04T02:43:10.000Z</updated>
+  <updated>2017-02-05T00:59:24.000Z</updated>
   <id>http://okcjs.com/</id>
   
   <author>
@@ -14,6 +14,48 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Meeting: Feb 21 - WebAssembly</title>
+    <link href="http://okcjs.com/2017/02/21/2017-02-21-WebAssembly/"/>
+    <id>http://okcjs.com/2017/02/21/2017-02-21-WebAssembly/</id>
+    <published>2017-02-21T06:00:00.000Z</published>
+    <updated>2017-02-05T00:59:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/images/posters/2017-February-WebAssembly.gif" width="700" title="WebAssembly WebAssembly">
+<div style="margin-top: 10px;"><div style="border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;"><a title="RSVP on Meetup.com" style="color: #181818;text-decoration: none;" target="_blank" href="https://www.meetup.com/OKC-js/events/237462189/">RSVP for okcjs on Meetup</a></div></div>
+<h2 id="This-Month"><a href="#This-Month" class="headerlink" title="This Month"></a>This Month</h2><p>Tuesday: Feb 21, 2017</p>
+<p>11:30 am</p>
+<p>@StarSpace46<br>1141 W Sheridan Ave<br>Oklahoma City, OK<br>73106</p>
+<h2 id="About-“WebAssembly”"><a href="#About-“WebAssembly”" class="headerlink" title="About “WebAssembly”"></a>About “WebAssembly”</h2><p>WebAssembly is an emerging standard which defines a compact, efficient, safe, and portable compiler target for the Web. This talk introduces WebAssembly: what it is and what problems it is designed to solve. Next, an in-depth tour of WebAssembly: how to compile it, what it looks like, how it works, how the engine compiles it into efficient machine code, and how it interfaces with JavaScript. If you care about alternative programming languages, compiling to the Web, performance, or you like using powerful JS libraries and frameworks, come learn<br>about WebAssembly.</p>
+<h2 id="About-Yury-Delendik"><a href="#About-Yury-Delendik" class="headerlink" title="About Yury Delendik"></a>About Yury Delendik</h2><p>Yury Delendik is a Software Engineer at Mozilla Research. His goal is to provide secure and efficient solutions that work on various platforms and browsers. The projects he worked on in the past, such as PDF.js or Shumway, prove that the Web platform can be a valuable target for more complex applications. At the moment, Yury is contributing to the WebAssembly project.<br><a href="https://twitter.com/yurydelendik" target="_blank" rel="external">@yurydelendik</a></p>
+<a id="more"></a>
+<h3 id="Our-Sponsors"><a href="#Our-Sponsors" class="headerlink" title="Our Sponsors"></a>Our Sponsors</h3><p>Tasty lunch will be served thanks to <a href="http://techlahoma.org/" target="_blank" rel="external">Techlahoma</a> and <a href="https://www.roberthalf.com/oklahoma-city/technology-it" target="_blank" rel="external">Robert Half</a>.</p>
+<h2 id="usergroup-location-StarSpace46"><a href="#usergroup-location-StarSpace46" class="headerlink" title="usergroup.location = StarSpace46;"></a>usergroup.location = StarSpace46;</h2><p><a href="http://www.starspace46.com" target="_blank" rel="external">StarSpace46</a> is OKC’s premiere entrepreneurial &amp; technology community hub.</p>
+<img src="/images/sponsors/StarSpace46.png" width="700" title="StarSpace46">
+<p>1141 W Sheridan Ave, Oklahoma City, Oklahoma 73106</p>
+<img src="/images/misc/starspace46-parking.png" width="700" title="StarSpace46 Parking">
+<p>Get directions via <a href="https://www.google.com/maps/place/1141+W+Sheridan+Ave,+Oklahoma+City,+OK+73106/@35.46679,-97.5343547,17z/data=!3m1!4b1!4m5!3m4!1s0x87b210d6c554c175:0x427474147d8d3d19!8m2!3d35.46679!4d-97.532166" target="_blank" rel="external">Google maps</a>.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/images/posters/2017-February-WebAssembly.gif&quot; width=&quot;700&quot; title=&quot;WebAssembly WebAssembly&quot;&gt;
+&lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;div style=&quot;border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;&quot;&gt;&lt;a title=&quot;RSVP on Meetup.com&quot; style=&quot;color: #181818;text-decoration: none;&quot; target=&quot;_blank&quot; href=&quot;https://www.meetup.com/OKC-js/events/237462189/&quot;&gt;RSVP for okcjs on Meetup&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;This-Month&quot;&gt;&lt;a href=&quot;#This-Month&quot; class=&quot;headerlink&quot; title=&quot;This Month&quot;&gt;&lt;/a&gt;This Month&lt;/h2&gt;&lt;p&gt;Tuesday: Feb 21, 2017&lt;/p&gt;
+&lt;p&gt;11:30 am&lt;/p&gt;
+&lt;p&gt;@StarSpace46&lt;br&gt;1141 W Sheridan Ave&lt;br&gt;Oklahoma City, OK&lt;br&gt;73106&lt;/p&gt;
+&lt;h2 id=&quot;About-“WebAssembly”&quot;&gt;&lt;a href=&quot;#About-“WebAssembly”&quot; class=&quot;headerlink&quot; title=&quot;About “WebAssembly”&quot;&gt;&lt;/a&gt;About “WebAssembly”&lt;/h2&gt;&lt;p&gt;WebAssembly is an emerging standard which defines a compact, efficient, safe, and portable compiler target for the Web. This talk introduces WebAssembly: what it is and what problems it is designed to solve. Next, an in-depth tour of WebAssembly: how to compile it, what it looks like, how it works, how the engine compiles it into efficient machine code, and how it interfaces with JavaScript. If you care about alternative programming languages, compiling to the Web, performance, or you like using powerful JS libraries and frameworks, come learn&lt;br&gt;about WebAssembly.&lt;/p&gt;
+&lt;h2 id=&quot;About-Yury-Delendik&quot;&gt;&lt;a href=&quot;#About-Yury-Delendik&quot; class=&quot;headerlink&quot; title=&quot;About Yury Delendik&quot;&gt;&lt;/a&gt;About Yury Delendik&lt;/h2&gt;&lt;p&gt;Yury Delendik is a Software Engineer at Mozilla Research. His goal is to provide secure and efficient solutions that work on various platforms and browsers. The projects he worked on in the past, such as PDF.js or Shumway, prove that the Web platform can be a valuable target for more complex applications. At the moment, Yury is contributing to the WebAssembly project.&lt;br&gt;&lt;a href=&quot;https://twitter.com/yurydelendik&quot;&gt;@yurydelendik&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Yury Delendik" scheme="http://okcjs.com/tags/Yury-Delendik/"/>
+    
+      <category term="WebAssembly" scheme="http://okcjs.com/tags/WebAssembly/"/>
+    
+  </entry>
   
   <entry>
     <title>Meeting: Jan 17 - Distributed Systems and the Web</title>
@@ -249,7 +291,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" title="[700] [Prototek OKC]">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap9104" style="
+<div id="googleMap8813" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -259,13 +301,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap9104'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap8813'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap9104'),
+     target = document.getElementById('googleMap8813'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -368,7 +410,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap1748" style="
+<div id="googleMap3120" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -378,13 +420,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap1748'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap3120'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap1748'),
+     target = document.getElementById('googleMap3120'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -481,7 +523,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap716" style="
+<div id="googleMap80" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -491,13 +533,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap716'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap80'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap716'),
+     target = document.getElementById('googleMap80'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -582,7 +624,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap573" style="
+<div id="googleMap3498" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -592,13 +634,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap573'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap3498'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap573'),
+     target = document.getElementById('googleMap3498'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -693,7 +735,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap6389" style="
+<div id="googleMap5461" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -703,13 +745,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap6389'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap5461'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap6389'),
+     target = document.getElementById('googleMap5461'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -788,7 +830,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap3823" style="
+<div id="googleMap5201" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -798,13 +840,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap3823'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap5201'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap3823'),
+     target = document.getElementById('googleMap5201'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -882,7 +924,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap8353" style="
+<div id="googleMap8692" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -892,13 +934,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap8353'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap8692'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap8353'),
+     target = document.getElementById('googleMap8692'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -982,7 +1024,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap8579" style="
+<div id="googleMap8342" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -992,13 +1034,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap8579'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap8342'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap8579'),
+     target = document.getElementById('googleMap8342'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1098,7 +1140,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap4756" style="
+<div id="googleMap7054" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1108,13 +1150,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap4756'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap7054'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap4756'),
+     target = document.getElementById('googleMap7054'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1192,7 +1234,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap6171" style="
+<div id="googleMap9022" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1202,13 +1244,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap6171'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap9022'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap6171'),
+     target = document.getElementById('googleMap9022'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1296,7 +1338,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap2814" style="
+<div id="googleMap679" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1306,13 +1348,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap2814'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap679'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap2814'),
+     target = document.getElementById('googleMap679'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1403,7 +1445,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap3580" style="
+<div id="googleMap9585" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1413,13 +1455,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap3580'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap9585'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap3580'),
+     target = document.getElementById('googleMap9585'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1497,7 +1539,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap3612" style="
+<div id="googleMap5433" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1507,13 +1549,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap3612'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap5433'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap3612'),
+     target = document.getElementById('googleMap5433'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1595,7 +1637,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap6761" style="
+<div id="googleMap6420" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1605,13 +1647,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap6761'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap6420'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap6761'),
+     target = document.getElementById('googleMap6420'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1707,7 +1749,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap9167" style="
+<div id="googleMap9669" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1717,13 +1759,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap9167'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap9669'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap9167'),
+     target = document.getElementById('googleMap9669'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1776,100 +1818,6 @@
       <category term="Pulkit Singhal" scheme="http://okcjs.com/tags/Pulkit-Singhal/"/>
     
       <category term="BaaS" scheme="http://okcjs.com/tags/BaaS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Meeting: July 21 - WebGL - The Hard Way</title>
-    <link href="http://okcjs.com/2015/07/21/2015-7-21-webgl-the-hard-way/"/>
-    <id>http://okcjs.com/2015/07/21/2015-7-21-webgl-the-hard-way/</id>
-    <published>2015-07-21T05:00:00.000Z</published>
-    <updated>2016-10-05T01:13:38.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/images/posters/2015-July-WebGL-The-Hard-Way.png" width="700" title="WebGL - The Hard Way WebGL - The Hard Way">
-<div style="margin-top: 10px;"><div style="border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;"><a title="RSVP on Meetup.com" style="color: #181818;text-decoration: none;" target="_blank" href="http://www.meetup.com/OKC-js/events/223701815/">RSVP for okcjs on Meetup</a></div></div>
-<h2 id="This-Month"><a href="#This-Month" class="headerlink" title="This Month"></a>This Month</h2><p>Tuesday: Jul 21, 2015</p>
-<p>11:30 am</p>
-<p>@Prototek<br>401 NW 10th,<br>Oklahoma City, Oklahoma<br>73101</p>
-<h2 id="About-“WebGL-The-Hard-Way”"><a href="#About-“WebGL-The-Hard-Way”" class="headerlink" title="About “WebGL - The Hard Way”"></a>About “WebGL - The Hard Way”</h2><p>WebGL. We’ve all heard about how it’s bringing 3D to the web. Games are adopting WebGL, 3D model viewers are adopting WebGL, and industrial applications are adopting WebGL for 3D. What you may not realize is it’s the future of 2D graphics as well. Google maps, MapboxGL, Youtube, and lots of games are using WebGL to do things that just aren’t possible with Canvas. This is not just true for the web and WebGL but for desktop and mobile applications that use OpenGL. WebGL is a great way to learn the current state of the art for web graphics and hone your graphics skills across all platforms.</p>
-<p>Unfortunately WebGL is hard :( and most tutorials are either horribly out of date, or just suggest using a framework like Three.js (which is a great framework but doesn’t teach you much about the guts of WebGL). Fortunately with some simple explanation, WebGL can be tamed and be a fun, valuable tool in your toolbelt. In this talk I’ll give you the key pieces that you need to know to use WebGL, show you how to get started, and where to go from there.</p>
-<h2 id="About-our-Speaker"><a href="#About-our-Speaker" class="headerlink" title="About our Speaker"></a>About our Speaker</h2><h3 id="Karl-Kirch"><a href="#Karl-Kirch" class="headerlink" title="Karl Kirch"></a>Karl Kirch</h3><p>SWOSU grad who’s done everything from freelance work, the startup scene, and even some government contract work. I’ve done frontend and backend work (and even some mobile) in everything from Java to JavaScript (except C++, not a huge fan…). I don’t always code, but when I do I like to do it well… When I’m not coding I’m running, playing soccer, brewing beer, or anything that doesn’t involve a computer.<br><a href="https://github.com/joekarl" target="_blank" rel="external">See what Karl is up to on GitHub!</a><br><img src="/images/speakers/karlKirch.jpeg" width="150" title="joeKarl"></p>
-<a id="more"></a>
-<h3 id="Our-Sponsors"><a href="#Our-Sponsors" class="headerlink" title="Our Sponsors"></a>Our Sponsors</h3><p>Meeting space is provided thanks to <a href="http://www.prototekokc.com" target="_blank" rel="external">Prototek</a>. These awesome folks are passionate about creating a vibrant maker space in Oklahoma City. We thank them for providing meeting space for user groups and events. Prototek is collaborating with Techlahoma to create a positive impact on our tech community, which is an epic win for everyone!</p>
-<p>Tasty lunch will be served thanks to <a href="http://techlahoma.org/" target="_blank" rel="external">Techlahoma</a>.</p>
-<h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
-<img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
-<p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap3129" style="
-            height: 250px;
-            width: 100%;
-            margin: 0px;
-            padding: 0px
-            ">
-</div>
-<style>.gmnoprint img {max-width: none !important;}</style>
-<script defer="defer">
-  window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap3129'] = function init() {
-    var mapOptions = {
-       'scrollwheel': false,
-       'zoom': 17,
-       'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
-     },
-     target = document.getElementById('googleMap3129'),
-     map = new window.google.maps.Map(target, mapOptions);
-      
-     
-     
-     var opts0 = {
-        'position': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
-        'map': map,
-        'title': 'Prototek OKC',
-        'zIndex' : 0,
-        'icon': 'http://google-maps-icons.googlecode.com/files/tools.png'
-      };
-     
-      var marker0 = new window.google.maps.Marker(opts0);
-   
-
-  }
-  function makeMaps() {
-    for (var map in window.hexoGmaps.maps) {
-       console.log('map #', map);
-       window.hexoGmaps.maps[map]();
-    }
-  }
-  function loadScript() {
-    window.hexoGmaps.googleScriptLoaded = true;
-    var script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp&callback=makeMaps';
-    document.body.appendChild(script);
-  }
-  if (!window.hexoGmaps.googleScriptLoaded) {
-    loadScript();
-  }
-</script>
-<p>Get directions via <a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415" target="_blank" rel="external">Google maps</a>.</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/images/posters/2015-July-WebGL-The-Hard-Way.png&quot; width=&quot;700&quot; title=&quot;WebGL - The Hard Way WebGL - The Hard Way&quot;&gt;
-&lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;div style=&quot;border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;&quot;&gt;&lt;a title=&quot;RSVP on Meetup.com&quot; style=&quot;color: #181818;text-decoration: none;&quot; target=&quot;_blank&quot; href=&quot;http://www.meetup.com/OKC-js/events/223701815/&quot;&gt;RSVP for okcjs on Meetup&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h2 id=&quot;This-Month&quot;&gt;&lt;a href=&quot;#This-Month&quot; class=&quot;headerlink&quot; title=&quot;This Month&quot;&gt;&lt;/a&gt;This Month&lt;/h2&gt;&lt;p&gt;Tuesday: Jul 21, 2015&lt;/p&gt;
-&lt;p&gt;11:30 am&lt;/p&gt;
-&lt;p&gt;@Prototek&lt;br&gt;401 NW 10th,&lt;br&gt;Oklahoma City, Oklahoma&lt;br&gt;73101&lt;/p&gt;
-&lt;h2 id=&quot;About-“WebGL-The-Hard-Way”&quot;&gt;&lt;a href=&quot;#About-“WebGL-The-Hard-Way”&quot; class=&quot;headerlink&quot; title=&quot;About “WebGL - The Hard Way”&quot;&gt;&lt;/a&gt;About “WebGL - The Hard Way”&lt;/h2&gt;&lt;p&gt;WebGL. We’ve all heard about how it’s bringing 3D to the web. Games are adopting WebGL, 3D model viewers are adopting WebGL, and industrial applications are adopting WebGL for 3D. What you may not realize is it’s the future of 2D graphics as well. Google maps, MapboxGL, Youtube, and lots of games are using WebGL to do things that just aren’t possible with Canvas. This is not just true for the web and WebGL but for desktop and mobile applications that use OpenGL. WebGL is a great way to learn the current state of the art for web graphics and hone your graphics skills across all platforms.&lt;/p&gt;
-&lt;p&gt;Unfortunately WebGL is hard :( and most tutorials are either horribly out of date, or just suggest using a framework like Three.js (which is a great framework but doesn’t teach you much about the guts of WebGL). Fortunately with some simple explanation, WebGL can be tamed and be a fun, valuable tool in your toolbelt. In this talk I’ll give you the key pieces that you need to know to use WebGL, show you how to get started, and where to go from there.&lt;/p&gt;
-&lt;h2 id=&quot;About-our-Speaker&quot;&gt;&lt;a href=&quot;#About-our-Speaker&quot; class=&quot;headerlink&quot; title=&quot;About our Speaker&quot;&gt;&lt;/a&gt;About our Speaker&lt;/h2&gt;&lt;h3 id=&quot;Karl-Kirch&quot;&gt;&lt;a href=&quot;#Karl-Kirch&quot; class=&quot;headerlink&quot; title=&quot;Karl Kirch&quot;&gt;&lt;/a&gt;Karl Kirch&lt;/h3&gt;&lt;p&gt;SWOSU grad who’s done everything from freelance work, the startup scene, and even some government contract work. I’ve done frontend and backend work (and even some mobile) in everything from Java to JavaScript (except C++, not a huge fan…). I don’t always code, but when I do I like to do it well… When I’m not coding I’m running, playing soccer, brewing beer, or anything that doesn’t involve a computer.&lt;br&gt;&lt;a href=&quot;https://github.com/joekarl&quot;&gt;See what Karl is up to on GitHub!&lt;/a&gt;&lt;br&gt;&lt;img src=&quot;/images/speakers/karlKirch.jpeg&quot; width=&quot;150&quot; title=&quot;joeKarl&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Karl Kirch" scheme="http://okcjs.com/tags/Karl-Kirch/"/>
-    
-      <category term="WebGL" scheme="http://okcjs.com/tags/WebGL/"/>
     
   </entry>
   
