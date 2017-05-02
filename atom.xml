@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://okcjs.com/"/>
-  <updated>2017-04-04T01:39:44.000Z</updated>
+  <updated>2017-05-02T01:17:59.000Z</updated>
   <id>http://okcjs.com/</id>
   
   <author>
@@ -14,6 +14,52 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Meeting: May 16 - How to Build Automated Smoke Tests Using Protractor</title>
+    <link href="http://okcjs.com/2017/05/16/2017-05-16-smoke-tests-using-protractor/"/>
+    <id>http://okcjs.com/2017/05/16/2017-05-16-smoke-tests-using-protractor/</id>
+    <published>2017-05-16T05:00:00.000Z</published>
+    <updated>2017-05-02T01:17:59.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/images/posters/2017-May-Protractor.png" width="700" title="How to Build Automated Smoke Tests Using Protractor How to Build Automated Smoke Tests Using Protractor">
+<div style="margin-top: 10px;"><div style="border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;"><a title="RSVP on Meetup.com" style="color: #181818;text-decoration: none;" target="_blank" href="https://www.meetup.com/OKC-js/events/239612509/">RSVP for okcjs on Meetup</a></div></div>
+<h2 id="This-Month"><a href="#This-Month" class="headerlink" title="This Month"></a>This Month</h2><p>Tuesday: May 16, 2017</p>
+<p>11:30 am</p>
+<p>@StarSpace46<br>1141 W Sheridan Ave<br>Oklahoma City, OK<br>73106</p>
+<h2 id="About-“How-to-Build-Automated-Smoke-Tests-Using-Protractor”"><a href="#About-“How-to-Build-Automated-Smoke-Tests-Using-Protractor”" class="headerlink" title="About “How to Build Automated Smoke Tests Using Protractor”"></a>About “How to Build Automated Smoke Tests Using Protractor”</h2><p>Over the past year, Dale has been working with his team at SCA to build an automated smoke test system that ensures their applications are loading and performing correctly. They built the tests using <a href="http://www.protractortest.org" target="_blank" rel="external">Protractor</a> and they perform various UI tests that verify the primary functions of the application are performing correctly. The tests run every few minutes and alert them if any issues are found. Dale will be expanding on the lightning talk he gave at the <a href="https://www.twitch.tv/videos/133190313" target="_blank" rel="external">OKC# March meeting</a> and will be walking through how to set up Protractor, create the tests, and set them to run automatically.</p>
+<h2 id="About-Dale-Spoonemore"><a href="#About-Dale-Spoonemore" class="headerlink" title="About Dale Spoonemore"></a>About Dale Spoonemore</h2><p>Dale Spoonemore has been in the software business for over 11 years with most of that time spent coming up with schemes to break software. He’s tested applications built using pretty much every language/framework out there across desktop/web/mobile and currently heads up the QA efforts at Surgical Care Affiliates where he spends most of his time testing, creating SOX-compliant test documentation, and writing automated tests for their Angular web apps. He’s also an avid gardener/“urban farmer” and blogs about his journey towards growing as much food as possible for his family of 6 at <a href="http://www.seedtospoon.net" target="_blank" rel="external">seedtospoon.net</a>.<br><a href="https://twitter.com/dalespoonemore" target="_blank" rel="external">@dalespoonemore</a> | <a href="https://twitter.com/fromseed2spoon" target="_blank" rel="external">@fromseed2spoon</a></p>
+<a id="more"></a>
+<h3 id="Our-Sponsors"><a href="#Our-Sponsors" class="headerlink" title="Our Sponsors"></a>Our Sponsors</h3><p>Tasty lunch will be served thanks to <a href="http://techlahoma.org/" target="_blank" rel="external">Techlahoma</a> and <a href="https://www.roberthalf.com/oklahoma-city/technology-it" target="_blank" rel="external">Robert Half</a>.</p>
+<h2 id="usergroup-location-StarSpace46"><a href="#usergroup-location-StarSpace46" class="headerlink" title="usergroup.location = StarSpace46;"></a>usergroup.location = StarSpace46;</h2><p><a href="http://www.starspace46.com" target="_blank" rel="external">StarSpace46</a> is OKC’s premiere entrepreneurial &amp; technology community hub.</p>
+<img src="/images/sponsors/StarSpace46.png" width="700" title="StarSpace46">
+<p>1141 W Sheridan Ave, Oklahoma City, Oklahoma 73106</p>
+<img src="/images/misc/starspace46-parking.png" width="700" title="StarSpace46 Parking">
+<p>Get directions via <a href="https://www.google.com/maps/place/1141+W+Sheridan+Ave,+Oklahoma+City,+OK+73106/@35.46679,-97.5343547,17z/data=!3m1!4b1!4m5!3m4!1s0x87b210d6c554c175:0x427474147d8d3d19!8m2!3d35.46679!4d-97.532166" target="_blank" rel="external">Google maps</a>.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/images/posters/2017-May-Protractor.png&quot; width=&quot;700&quot; title=&quot;How to Build Automated Smoke Tests Using Protractor How to Build Automated Smoke Tests Using Protractor&quot;&gt;
+&lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;div style=&quot;border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;&quot;&gt;&lt;a title=&quot;RSVP on Meetup.com&quot; style=&quot;color: #181818;text-decoration: none;&quot; target=&quot;_blank&quot; href=&quot;https://www.meetup.com/OKC-js/events/239612509/&quot;&gt;RSVP for okcjs on Meetup&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;This-Month&quot;&gt;&lt;a href=&quot;#This-Month&quot; class=&quot;headerlink&quot; title=&quot;This Month&quot;&gt;&lt;/a&gt;This Month&lt;/h2&gt;&lt;p&gt;Tuesday: May 16, 2017&lt;/p&gt;
+&lt;p&gt;11:30 am&lt;/p&gt;
+&lt;p&gt;@StarSpace46&lt;br&gt;1141 W Sheridan Ave&lt;br&gt;Oklahoma City, OK&lt;br&gt;73106&lt;/p&gt;
+&lt;h2 id=&quot;About-“How-to-Build-Automated-Smoke-Tests-Using-Protractor”&quot;&gt;&lt;a href=&quot;#About-“How-to-Build-Automated-Smoke-Tests-Using-Protractor”&quot; class=&quot;headerlink&quot; title=&quot;About “How to Build Automated Smoke Tests Using Protractor”&quot;&gt;&lt;/a&gt;About “How to Build Automated Smoke Tests Using Protractor”&lt;/h2&gt;&lt;p&gt;Over the past year, Dale has been working with his team at SCA to build an automated smoke test system that ensures their applications are loading and performing correctly. They built the tests using &lt;a href=&quot;http://www.protractortest.org&quot;&gt;Protractor&lt;/a&gt; and they perform various UI tests that verify the primary functions of the application are performing correctly. The tests run every few minutes and alert them if any issues are found. Dale will be expanding on the lightning talk he gave at the &lt;a href=&quot;https://www.twitch.tv/videos/133190313&quot;&gt;OKC# March meeting&lt;/a&gt; and will be walking through how to set up Protractor, create the tests, and set them to run automatically.&lt;/p&gt;
+&lt;h2 id=&quot;About-Dale-Spoonemore&quot;&gt;&lt;a href=&quot;#About-Dale-Spoonemore&quot; class=&quot;headerlink&quot; title=&quot;About Dale Spoonemore&quot;&gt;&lt;/a&gt;About Dale Spoonemore&lt;/h2&gt;&lt;p&gt;Dale Spoonemore has been in the software business for over 11 years with most of that time spent coming up with schemes to break software. He’s tested applications built using pretty much every language/framework out there across desktop/web/mobile and currently heads up the QA efforts at Surgical Care Affiliates where he spends most of his time testing, creating SOX-compliant test documentation, and writing automated tests for their Angular web apps. He’s also an avid gardener/“urban farmer” and blogs about his journey towards growing as much food as possible for his family of 6 at &lt;a href=&quot;http://www.seedtospoon.net&quot;&gt;seedtospoon.net&lt;/a&gt;.&lt;br&gt;&lt;a href=&quot;https://twitter.com/dalespoonemore&quot;&gt;@dalespoonemore&lt;/a&gt; | &lt;a href=&quot;https://twitter.com/fromseed2spoon&quot;&gt;@fromseed2spoon&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Angular" scheme="http://okcjs.com/tags/Angular/"/>
+    
+      <category term="Dale Spoonemore" scheme="http://okcjs.com/tags/Dale-Spoonemore/"/>
+    
+      <category term="smoke test" scheme="http://okcjs.com/tags/smoke-test/"/>
+    
+      <category term="Protractor" scheme="http://okcjs.com/tags/Protractor/"/>
+    
+  </entry>
   
   <entry>
     <title>Meeting: April 18 - Effective JavaScript Debugging</title>
@@ -389,7 +435,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" title="[700] [Prototek OKC]">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap997" style="
+<div id="googleMap4879" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -399,13 +445,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap997'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap4879'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap997'),
+     target = document.getElementById('googleMap4879'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -508,7 +554,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap5938" style="
+<div id="googleMap2793" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -518,13 +564,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap5938'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap2793'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap5938'),
+     target = document.getElementById('googleMap2793'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -584,9 +630,9 @@
     
       <category term="Lightning Talks" scheme="http://okcjs.com/tags/Lightning-Talks/"/>
     
-      <category term="James England" scheme="http://okcjs.com/tags/James-England/"/>
-    
       <category term="Adam Rackis" scheme="http://okcjs.com/tags/Adam-Rackis/"/>
+    
+      <category term="James England" scheme="http://okcjs.com/tags/James-England/"/>
     
       <category term="Express" scheme="http://okcjs.com/tags/Express/"/>
     
@@ -621,7 +667,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap2668" style="
+<div id="googleMap6411" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -631,13 +677,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap2668'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap6411'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap2668'),
+     target = document.getElementById('googleMap6411'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -722,7 +768,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap5119" style="
+<div id="googleMap1896" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -732,13 +778,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap5119'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap1896'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap5119'),
+     target = document.getElementById('googleMap1896'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -833,7 +879,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap1843" style="
+<div id="googleMap8100" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -843,13 +889,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap1843'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap8100'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap1843'),
+     target = document.getElementById('googleMap8100'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -928,7 +974,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap5174" style="
+<div id="googleMap8957" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -938,13 +984,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap5174'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap8957'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap5174'),
+     target = document.getElementById('googleMap8957'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1022,7 +1068,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap2294" style="
+<div id="googleMap614" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1032,13 +1078,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap2294'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap614'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap2294'),
+     target = document.getElementById('googleMap614'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1122,7 +1168,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap7792" style="
+<div id="googleMap2822" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1132,13 +1178,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap7792'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap2822'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap7792'),
+     target = document.getElementById('googleMap2822'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1238,7 +1284,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap9658" style="
+<div id="googleMap4576" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1248,13 +1294,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap9658'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap4576'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap9658'),
+     target = document.getElementById('googleMap4576'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1332,7 +1378,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap8913" style="
+<div id="googleMap3371" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1342,13 +1388,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap8913'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap3371'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap8913'),
+     target = document.getElementById('googleMap3371'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1436,7 +1482,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap4002" style="
+<div id="googleMap6688" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1446,13 +1492,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap4002'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap6688'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap4002'),
+     target = document.getElementById('googleMap6688'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1543,7 +1589,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap1837" style="
+<div id="googleMap4157" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1553,13 +1599,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap1837'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap4157'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap1837'),
+     target = document.getElementById('googleMap4157'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1614,96 +1660,6 @@
       <category term="JavaScript" scheme="http://okcjs.com/tags/JavaScript/"/>
     
       <category term="Mobile App" scheme="http://okcjs.com/tags/Mobile-App/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Meeting: Oct 20 - Important Talk About Important Things</title>
-    <link href="http://okcjs.com/2015/10/20/2015-10-20-important-talk-about-important-things/"/>
-    <id>http://okcjs.com/2015/10/20/2015-10-20-important-talk-about-important-things/</id>
-    <published>2015-10-20T05:00:00.000Z</published>
-    <updated>2016-10-05T01:13:38.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/images/posters/2015-October-Important-Talk.png" width="700" title="Important Talk About Important Things Important Talk About Important Things">
-<div style="margin-top: 10px;"><div style="border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;"><a title="RSVP on Meetup.com" style="color: #181818;text-decoration: none;" target="_blank" href="http://www.meetup.com/OKC-js/events/225379844/">RSVP for okcjs on Meetup</a></div></div>
-<h2 id="This-Month"><a href="#This-Month" class="headerlink" title="This Month"></a>This Month</h2><p>Tuesday: Oct 20, 2015</p>
-<p>11:30 am</p>
-<p>@Prototek<br>401 NW 10th,<br>Oklahoma City, Oklahoma<br>73101</p>
-<h2 id="About-“Important-Talk-About-Important-Things”"><a href="#About-“Important-Talk-About-Important-Things”" class="headerlink" title="About “Important Talk About Important Things”"></a>About “Important Talk About Important Things”</h2><p>We all want to learn how to efficiently create solutions in a reliable, secure, and professional manner. Sometimes our priorities change and what we really need to know is how to embed an easter egg in our application that changes all the font to emojis. This talk will cover mission critical things such as adding easter eggs, creating your own fonts, and text animation.</p>
-<h2 id="About-our-Speaker"><a href="#About-our-Speaker" class="headerlink" title="About our Speaker"></a>About our Speaker</h2><h3 id="Mike-Bockus"><a href="#Mike-Bockus" class="headerlink" title="Mike Bockus"></a>Mike Bockus</h3><p>Mike is a software engineer at Cox Communications where he enjoys being paid with extra cable channels and faster internet. When he’s not spending quality time with his family or working, he enjoys making useless Android apps that have earned tens of dollars and starting a bunch of side projects that will never be finished.<br><a href="https://twitter.com/MikeBockus" target="_blank" rel="external">Mike’s Twitter</a></p>
-<a id="more"></a>
-<h3 id="Our-Sponsors"><a href="#Our-Sponsors" class="headerlink" title="Our Sponsors"></a>Our Sponsors</h3><p>Meeting space is provided thanks to <a href="http://www.prototekokc.com" target="_blank" rel="external">Prototek</a>. These awesome folks are passionate about creating a vibrant maker space in Oklahoma City. We thank them for providing meeting space for user groups and events. Prototek is collaborating with Techlahoma to create a positive impact on our tech community, which is an epic win for everyone!</p>
-<p>Tasty lunch will be served thanks to <a href="http://techlahoma.org/" target="_blank" rel="external">Techlahoma</a>.</p>
-<h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
-<img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
-<p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap1427" style="
-            height: 250px;
-            width: 100%;
-            margin: 0px;
-            padding: 0px
-            ">
-</div>
-<style>.gmnoprint img {max-width: none !important;}</style>
-<script defer="defer">
-  window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap1427'] = function init() {
-    var mapOptions = {
-       'scrollwheel': false,
-       'zoom': 17,
-       'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
-     },
-     target = document.getElementById('googleMap1427'),
-     map = new window.google.maps.Map(target, mapOptions);
-      
-     
-     
-     var opts0 = {
-        'position': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
-        'map': map,
-        'title': 'Prototek OKC',
-        'zIndex' : 0,
-        'icon': 'http://google-maps-icons.googlecode.com/files/tools.png'
-      };
-     
-      var marker0 = new window.google.maps.Marker(opts0);
-   
-
-  }
-  function makeMaps() {
-    for (var map in window.hexoGmaps.maps) {
-       console.log('map #', map);
-       window.hexoGmaps.maps[map]();
-    }
-  }
-  function loadScript() {
-    window.hexoGmaps.googleScriptLoaded = true;
-    var script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp&callback=makeMaps';
-    document.body.appendChild(script);
-  }
-  if (!window.hexoGmaps.googleScriptLoaded) {
-    loadScript();
-  }
-</script>
-<p>Get directions via <a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415" target="_blank" rel="external">Google maps</a>.</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/images/posters/2015-October-Important-Talk.png&quot; width=&quot;700&quot; title=&quot;Important Talk About Important Things Important Talk About Important Things&quot;&gt;
-&lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;div style=&quot;border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;&quot;&gt;&lt;a title=&quot;RSVP on Meetup.com&quot; style=&quot;color: #181818;text-decoration: none;&quot; target=&quot;_blank&quot; href=&quot;http://www.meetup.com/OKC-js/events/225379844/&quot;&gt;RSVP for okcjs on Meetup&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h2 id=&quot;This-Month&quot;&gt;&lt;a href=&quot;#This-Month&quot; class=&quot;headerlink&quot; title=&quot;This Month&quot;&gt;&lt;/a&gt;This Month&lt;/h2&gt;&lt;p&gt;Tuesday: Oct 20, 2015&lt;/p&gt;
-&lt;p&gt;11:30 am&lt;/p&gt;
-&lt;p&gt;@Prototek&lt;br&gt;401 NW 10th,&lt;br&gt;Oklahoma City, Oklahoma&lt;br&gt;73101&lt;/p&gt;
-&lt;h2 id=&quot;About-“Important-Talk-About-Important-Things”&quot;&gt;&lt;a href=&quot;#About-“Important-Talk-About-Important-Things”&quot; class=&quot;headerlink&quot; title=&quot;About “Important Talk About Important Things”&quot;&gt;&lt;/a&gt;About “Important Talk About Important Things”&lt;/h2&gt;&lt;p&gt;We all want to learn how to efficiently create solutions in a reliable, secure, and professional manner. Sometimes our priorities change and what we really need to know is how to embed an easter egg in our application that changes all the font to emojis. This talk will cover mission critical things such as adding easter eggs, creating your own fonts, and text animation.&lt;/p&gt;
-&lt;h2 id=&quot;About-our-Speaker&quot;&gt;&lt;a href=&quot;#About-our-Speaker&quot; class=&quot;headerlink&quot; title=&quot;About our Speaker&quot;&gt;&lt;/a&gt;About our Speaker&lt;/h2&gt;&lt;h3 id=&quot;Mike-Bockus&quot;&gt;&lt;a href=&quot;#Mike-Bockus&quot; class=&quot;headerlink&quot; title=&quot;Mike Bockus&quot;&gt;&lt;/a&gt;Mike Bockus&lt;/h3&gt;&lt;p&gt;Mike is a software engineer at Cox Communications where he enjoys being paid with extra cable channels and faster internet. When he’s not spending quality time with his family or working, he enjoys making useless Android apps that have earned tens of dollars and starting a bunch of side projects that will never be finished.&lt;br&gt;&lt;a href=&quot;https://twitter.com/MikeBockus&quot;&gt;Mike’s Twitter&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Mike Brockus" scheme="http://okcjs.com/tags/Mike-Brockus/"/>
     
   </entry>
   
