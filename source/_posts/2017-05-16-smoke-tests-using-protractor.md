@@ -9,9 +9,9 @@ tags:
 date: 2017-05-16
 ---
 
-{% img /images/posters/2017-April-JavaScript-Debugging.png 700 "Effective JavaScript Debugging" "Effective JavaScript Debugging" %}
+{% img /images/posters/2017-May-Protractor.png 700 "How to Build Automated Smoke Tests Using Protractor" "How to Build Automated Smoke Tests Using Protractor" %}
 
-{% meetup_btn https://www.meetup.com/OKC-js/ 674 %}
+{% meetup_btn https://www.meetup.com/OKC-js/events/239612509/ 674 %}
 
 ## This Month
 Tuesday: May 16, 2017
