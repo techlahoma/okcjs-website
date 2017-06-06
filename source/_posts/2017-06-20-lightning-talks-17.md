@@ -18,7 +18,7 @@ tags:
 date: 2017-06-20
 ---
 
-{% img /images/posters/2017-March-Lightning-Talks.png 700 "Lightning Talks #17" "Lightning Talks #17" %}
+{% img /images/posters/2017-06-20_LightningTalks.png 700 "Lightning Talks #17" "Lightning Talks #17" %}
 
 {% meetup_btn https://www.meetup.com/OKC-js/events/240563348/ 674 %}
 
