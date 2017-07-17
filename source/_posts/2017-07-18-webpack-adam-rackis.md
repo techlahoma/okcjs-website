@@ -1,5 +1,5 @@
 layout: post
-title: "Meeting: July 18 - Webpack with Adam Rackis17"
+title: "Meeting: July 18 - Webpack with Adam Rackis"
 comments: true
 tags:
   - Adam Rackis
@@ -25,7 +25,8 @@ Oklahoma City, OK
 ## About "Webpack"
 This talk will introduce webpack in the most gentle, un-intimidating way possible.  We'll start with no config file, and build the simplest imagineable app.  From that starting point we'll see just how easy it is to add code splitting, chunk management, bundle visualization, and finish with some cool JavaScript toys like Babel and TypeScript.
 
-
+## About Adam
+After a brief stint in the Air Force, Adam began his career as a software developer here in Oklahoma City.  In the more than decade since, he’s coded over a wide variety of languages, technologies and frameworks.  Most recently he’s developed an unhealthy obsession with JavaScript, and the React stack in particular.  When he’s not coding, his interests include fitness, reading, and of course being a husband and father.
 <!-- more -->
 
 ### Our Sponsors
