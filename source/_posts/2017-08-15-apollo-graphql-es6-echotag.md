@@ -14,7 +14,7 @@ date: 2017-08-11 22:55:24
 
 {% img /images/posters/2017-August-Double-JavaScript.png 700 "Double Javascript II" "Double Javascript II" %}
 
-{% meetup_btn [https://www.meetup.com/OKC-js/events/242477768/] 674 %}
+{% meetup_btn https://www.meetup.com/OKC-js/events/242477768/ 674 %}
 
 ## This Month
 Tuesday: Aug 08, 2017
