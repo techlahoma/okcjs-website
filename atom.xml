@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://okcjs.com/"/>
-  <updated>2017-06-06T11:40:06.000Z</updated>
+  <updated>2017-10-09T16:57:04.000Z</updated>
   <id>http://okcjs.com/</id>
   
   <author>
@@ -14,6 +14,155 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Meeting: Oct 17 - Control the world with text!: making CLI tools with Node</title>
+    <link href="http://okcjs.com/2017/10/17/2017-10-17-make-cli-tools-with-node/"/>
+    <id>http://okcjs.com/2017/10/17/2017-10-17-make-cli-tools-with-node/</id>
+    <published>2017-10-17T05:00:00.000Z</published>
+    <updated>2017-10-09T16:57:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<div style="margin-top: 10px;"><div style="border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;"><a title="RSVP on Meetup.com" style="color: #181818;text-decoration: none;" target="_blank" href="https://www.meetup.com/OKC-js/events/244051442/">RSVP for okcjs on Meetup</a></div></div>
+<h2 id="This-Month"><a href="#This-Month" class="headerlink" title="This Month"></a>This Month</h2><p>Tuesday: Oct 17, 2017</p>
+<p>11:30 am</p>
+<p>@StarSpace46<br>1141 W Sheridan Ave<br>Oklahoma City, OK<br>73106</p>
+<h2 id="About-“Control-the-world-with-text-making-CLI-tools-with-Node”"><a href="#About-“Control-the-world-with-text-making-CLI-tools-with-Node”" class="headerlink" title="About “Control the world with text!: making CLI tools with Node”"></a>About “Control the world with text!: making CLI tools with Node”</h2><p>Let’s make a CLI in node! In this talk we’ll take a simple app and make a CLI tool for it. We’ll cover everything from making it executable, distribution, testing, and best practices.</p>
+<p>More details coming soon!</p>
+<h2 id="About-Ryan-LaBouve"><a href="#About-Ryan-LaBouve" class="headerlink" title="About Ryan LaBouve"></a>About Ryan LaBouve</h2><p>Product engineer at Envoy. Last seen on the internet. Usually spotted wearing a black shirt with jeans. Loves talking to people and having coffee with strangers.<br>Follow Ryan at <a href="https://twitter.com/RyanLaBouve" target="_blank" rel="external">@RyanLaBouve</a></p>
+<a id="more"></a>
+<h3 id="Our-Sponsors"><a href="#Our-Sponsors" class="headerlink" title="Our Sponsors"></a>Our Sponsors</h3><p>Tasty lunch will be served thanks to <a href="http://techlahoma.org/" target="_blank" rel="external">Techlahoma</a> and <a href="https://www.roberthalf.com/oklahoma-city/technology-it" target="_blank" rel="external">Robert Half</a>.</p>
+<h2 id="usergroup-location-StarSpace46"><a href="#usergroup-location-StarSpace46" class="headerlink" title="usergroup.location = StarSpace46;"></a>usergroup.location = StarSpace46;</h2><p><a href="http://www.starspace46.com" target="_blank" rel="external">StarSpace46</a> is OKC’s premiere entrepreneurial &amp; technology community hub.</p>
+<img src="/images/sponsors/StarSpace46.png" width="700" title="StarSpace46">
+<p>1141 W Sheridan Ave, Oklahoma City, Oklahoma 73106</p>
+<img src="/images/misc/starspace46-parking.png" width="700" title="StarSpace46 Parking">
+<p>Get directions via <a href="https://www.google.com/maps/place/1141+W+Sheridan+Ave,+Oklahoma+City,+OK+73106/@35.46679,-97.5343547,17z/data=!3m1!4b1!4m5!3m4!1s0x87b210d6c554c175:0x427474147d8d3d19!8m2!3d35.46679!4d-97.532166" target="_blank" rel="external">Google maps</a>.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;div style=&quot;border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;&quot;&gt;&lt;a title=&quot;RSVP on Meetup.com&quot; style=&quot;color: #181818;text-decoration: none;&quot; target=&quot;_blank&quot; href=&quot;https://www.meetup.com/OKC-js/events/244051442/&quot;&gt;RSVP for okcjs on Meetup&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;This-Month&quot;&gt;&lt;a href=&quot;#This-Month&quot; class=&quot;headerlink&quot; title=&quot;This Month&quot;&gt;&lt;/a&gt;This Month&lt;/h2&gt;&lt;p&gt;Tuesday: Oct 17, 2017&lt;/p&gt;
+&lt;p&gt;11:30 am&lt;/p&gt;
+&lt;p&gt;@StarSpace46&lt;br&gt;1141 W Sheridan Ave&lt;br&gt;Oklahoma City, OK&lt;br&gt;73106&lt;/p&gt;
+&lt;h2 id=&quot;About-“Control-the-world-with-text-making-CLI-tools-with-Node”&quot;&gt;&lt;a href=&quot;#About-“Control-the-world-with-text-making-CLI-tools-with-Node”&quot; class=&quot;headerlink&quot; title=&quot;About “Control the world with text!: making CLI tools with Node”&quot;&gt;&lt;/a&gt;About “Control the world with text!: making CLI tools with Node”&lt;/h2&gt;&lt;p&gt;Let’s make a CLI in node! In this talk we’ll take a simple app and make a CLI tool for it. We’ll cover everything from making it executable, distribution, testing, and best practices.&lt;/p&gt;
+&lt;p&gt;More details coming soon!&lt;/p&gt;
+&lt;h2 id=&quot;About-Ryan-LaBouve&quot;&gt;&lt;a href=&quot;#About-Ryan-LaBouve&quot; class=&quot;headerlink&quot; title=&quot;About Ryan LaBouve&quot;&gt;&lt;/a&gt;About Ryan LaBouve&lt;/h2&gt;&lt;p&gt;Product engineer at Envoy. Last seen on the internet. Usually spotted wearing a black shirt with jeans. Loves talking to people and having coffee with strangers.&lt;br&gt;Follow Ryan at &lt;a href=&quot;https://twitter.com/RyanLaBouve&quot;&gt;@RyanLaBouve&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Node.js" scheme="http://okcjs.com/tags/Node-js/"/>
+    
+      <category term="Ryan LaBouve" scheme="http://okcjs.com/tags/Ryan-LaBouve/"/>
+    
+      <category term="CLI" scheme="http://okcjs.com/tags/CLI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Meeting: August 15 - Double Javascript II : The Revenge</title>
+    <link href="http://okcjs.com/2017/08/11/2017-08-15-apollo-graphql-es6-echotag/"/>
+    <id>http://okcjs.com/2017/08/11/2017-08-15-apollo-graphql-es6-echotag/</id>
+    <published>2017-08-12T03:55:24.000Z</published>
+    <updated>2017-10-09T16:57:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/images/posters/2017-August-Double-JavaScript.png" width="700" title="Double Javascript II Double Javascript II">
+<div style="margin-top: 10px;"><div style="border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;"><a title="RSVP on Meetup.com" style="color: #181818;text-decoration: none;" target="_blank" href="https://www.meetup.com/OKC-js/events/242477768/">RSVP for okcjs on Meetup</a></div></div>
+<h2 id="This-Month"><a href="#This-Month" class="headerlink" title="This Month"></a>This Month</h2><p>Tuesday: Aug 08, 2017</p>
+<p>11:30 am</p>
+<p>@StarSpace46<br>1141 W. Sheridan Ave,<br>OKC, OK 73106</p>
+<h2 id="About-“Double-Javascript-II-The-Revenge”"><a href="#About-“Double-Javascript-II-The-Revenge”" class="headerlink" title="About “Double Javascript II : The Revenge”"></a>About “Double Javascript II : The Revenge”</h2><p>We’re getting back to our roots with this meetup: It’s a double-header feature Jesse Harlin and Vance Lucas as the Javascript Dragon Warriors.</p>
+<p>ES6 Templating and Echotag</p>
+<p>Right now you’re probably underusing the raw dragon-power of es6 templates. Thankfully Vance has written a library that can bring your karate to the next level.</p>
+<p>Apollo and GraphQL</p>
+<p>You’ve heard of them, but what are they? Are they mysterious ninja assassins waiting to change how you handle data in your app? Maybe, we can’t answer that because you’ll have to join us in-person or online to find out.</p>
+<p>What we can do is show you the roles of what Graph QL IS what it DOES and how to get you some. Then learn how to uppercut your next web app with some of the amazing pieces of technology that have built up around Graph Ql.</p>
+<h2 id="About-our-Speakers"><a href="#About-our-Speakers" class="headerlink" title="About our Speakers"></a>About our Speakers</h2><h3 id="Vance-Lucas"><a href="#Vance-Lucas" class="headerlink" title="[Vance Lucas]"></a>[Vance Lucas]</h3><p>Vance Lucas is a seasoned programmer with over 17 years of web programming experience dating back to 1998. Vance is a full stack polyglot programmer who currently uses JavaScript/node.js, PHP, and Ruby for most projects. Vance is the co-founder of the Techlahoma Foundation, Oklahoma City JavaScript User Group (OKC.js), and co-organizer of the annual ThunderPlains Developer Conference in Oklahoma City.</p>
+<h3 id="Jesse-Harlin"><a href="#Jesse-Harlin" class="headerlink" title="[Jesse Harlin]"></a>[Jesse Harlin]</h3><p>Jesse is a business owner (simiancraft dev shop) and an experienced full-stack developer at the forefront of JavaScript and front-end technologies. He has a deep understanding of multiple programming languages, libraries, patterns, and software development process. He’s all about JavaScript, Synthesizers, and Amanda Harlin. @5imian + simiancraft.com</p>
+<a id="more"></a>
+<h3 id="Our-Sponsors"><a href="#Our-Sponsors" class="headerlink" title="Our Sponsors"></a>Our Sponsors</h3><p>Tasty lunch will be served thanks to <a href="http://techlahoma.org/" target="_blank" rel="external">Techlahoma</a> and <a href="https://www.roberthalf.com/oklahoma-city/technology-it" target="_blank" rel="external">Robert Half</a>.</p>
+<h2 id="usergroup-location-StarSpace46"><a href="#usergroup-location-StarSpace46" class="headerlink" title="usergroup.location = StarSpace46;"></a>usergroup.location = StarSpace46;</h2><p><a href="http://www.starspace46.com" target="_blank" rel="external">StarSpace46</a> StarSpace46 is OKC’s premiere entrepreneurial &amp; technology community hub.</p>
+<img src="/images/sponsors/StarSpace46.png" width="700" title="StarSpace46">
+<p>1141 W Sheridan Ave, Oklahoma City, Oklahoma 73106</p>
+<img src="/images/misc/starspace46-parking.png" width="700" title="StarSpace46 Parking">
+<p>Get directions via <a href="https://www.google.com/maps/place/1141+W+Sheridan+Ave,+Oklahoma+City,+OK+73106/@35.46679,-97.5343547,17z/data=!3m1!4b1!4m5!3m4!1s0x87b210d6c554c175:0x427474147d8d3d19!8m2!3d35.46679!4d-97.532166" target="_blank" rel="external">Google maps</a>.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/images/posters/2017-August-Double-JavaScript.png&quot; width=&quot;700&quot; title=&quot;Double Javascript II Double Javascript II&quot;&gt;
+&lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;div style=&quot;border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;&quot;&gt;&lt;a title=&quot;RSVP on Meetup.com&quot; style=&quot;color: #181818;text-decoration: none;&quot; target=&quot;_blank&quot; href=&quot;https://www.meetup.com/OKC-js/events/242477768/&quot;&gt;RSVP for okcjs on Meetup&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;This-Month&quot;&gt;&lt;a href=&quot;#This-Month&quot; class=&quot;headerlink&quot; title=&quot;This Month&quot;&gt;&lt;/a&gt;This Month&lt;/h2&gt;&lt;p&gt;Tuesday: Aug 08, 2017&lt;/p&gt;
+&lt;p&gt;11:30 am&lt;/p&gt;
+&lt;p&gt;@StarSpace46&lt;br&gt;1141 W. Sheridan Ave,&lt;br&gt;OKC, OK 73106&lt;/p&gt;
+&lt;h2 id=&quot;About-“Double-Javascript-II-The-Revenge”&quot;&gt;&lt;a href=&quot;#About-“Double-Javascript-II-The-Revenge”&quot; class=&quot;headerlink&quot; title=&quot;About “Double Javascript II : The Revenge”&quot;&gt;&lt;/a&gt;About “Double Javascript II : The Revenge”&lt;/h2&gt;&lt;p&gt;We’re getting back to our roots with this meetup: It’s a double-header feature Jesse Harlin and Vance Lucas as the Javascript Dragon Warriors.&lt;/p&gt;
+&lt;p&gt;ES6 Templating and Echotag&lt;/p&gt;
+&lt;p&gt;Right now you’re probably underusing the raw dragon-power of es6 templates. Thankfully Vance has written a library that can bring your karate to the next level.&lt;/p&gt;
+&lt;p&gt;Apollo and GraphQL&lt;/p&gt;
+&lt;p&gt;You’ve heard of them, but what are they? Are they mysterious ninja assassins waiting to change how you handle data in your app? Maybe, we can’t answer that because you’ll have to join us in-person or online to find out.&lt;/p&gt;
+&lt;p&gt;What we can do is show you the roles of what Graph QL IS what it DOES and how to get you some. Then learn how to uppercut your next web app with some of the amazing pieces of technology that have built up around Graph Ql.&lt;/p&gt;
+&lt;h2 id=&quot;About-our-Speakers&quot;&gt;&lt;a href=&quot;#About-our-Speakers&quot; class=&quot;headerlink&quot; title=&quot;About our Speakers&quot;&gt;&lt;/a&gt;About our Speakers&lt;/h2&gt;&lt;h3 id=&quot;Vance-Lucas&quot;&gt;&lt;a href=&quot;#Vance-Lucas&quot; class=&quot;headerlink&quot; title=&quot;[Vance Lucas]&quot;&gt;&lt;/a&gt;[Vance Lucas]&lt;/h3&gt;&lt;p&gt;Vance Lucas is a seasoned programmer with over 17 years of web programming experience dating back to 1998. Vance is a full stack polyglot programmer who currently uses JavaScript/node.js, PHP, and Ruby for most projects. Vance is the co-founder of the Techlahoma Foundation, Oklahoma City JavaScript User Group (OKC.js), and co-organizer of the annual ThunderPlains Developer Conference in Oklahoma City.&lt;/p&gt;
+&lt;h3 id=&quot;Jesse-Harlin&quot;&gt;&lt;a href=&quot;#Jesse-Harlin&quot; class=&quot;headerlink&quot; title=&quot;[Jesse Harlin]&quot;&gt;&lt;/a&gt;[Jesse Harlin]&lt;/h3&gt;&lt;p&gt;Jesse is a business owner (simiancraft dev shop) and an experienced full-stack developer at the forefront of JavaScript and front-end technologies. He has a deep understanding of multiple programming languages, libraries, patterns, and software development process. He’s all about JavaScript, Synthesizers, and Amanda Harlin. @5imian + simiancraft.com&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Vance Lucas" scheme="http://okcjs.com/tags/Vance-Lucas/"/>
+    
+      <category term="Jesse Harlin" scheme="http://okcjs.com/tags/Jesse-Harlin/"/>
+    
+      <category term="ES6" scheme="http://okcjs.com/tags/ES6/"/>
+    
+      <category term="Apollo" scheme="http://okcjs.com/tags/Apollo/"/>
+    
+      <category term="GraphQL" scheme="http://okcjs.com/tags/GraphQL/"/>
+    
+      <category term="Echotag" scheme="http://okcjs.com/tags/Echotag/"/>
+    
+      <category term="EcmaScript" scheme="http://okcjs.com/tags/EcmaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Meeting: July 18 - Webpack with Adam Rackis</title>
+    <link href="http://okcjs.com/2017/07/18/2017-07-18-webpack-adam-rackis/"/>
+    <id>http://okcjs.com/2017/07/18/2017-07-18-webpack-adam-rackis/</id>
+    <published>2017-07-18T05:00:00.000Z</published>
+    <updated>2017-10-09T16:57:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/images/posters/2017-Webpack-Rackis.png" width="700" title="Lightning Talks #17 Lightning Talks #17">
+<div style="margin-top: 10px;"><div style="border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;"><a title="RSVP on Meetup.com" style="color: #181818;text-decoration: none;" target="_blank" href="https://www.meetup.com/OKC-js/events/240563348/">RSVP for okcjs on Meetup</a></div></div>
+<h2 id="This-Month"><a href="#This-Month" class="headerlink" title="This Month"></a>This Month</h2><p>Tuesday: Jun 20, 2017</p>
+<p>11:30 am</p>
+<p>@StarSpace46<br>1141 W Sheridan Ave<br>Oklahoma City, OK<br>73106</p>
+<h2 id="About-“Webpack”"><a href="#About-“Webpack”" class="headerlink" title="About “Webpack”"></a>About “Webpack”</h2><p>This talk will introduce webpack in the most gentle, un-intimidating way possible.  We’ll start with no config file, and build the simplest imagineable app.  From that starting point we’ll see just how easy it is to add code splitting, chunk management, bundle visualization, and finish with some cool JavaScript toys like Babel and TypeScript.</p>
+<a id="more"></a>
+<h2 id="About-Adam"><a href="#About-Adam" class="headerlink" title="About Adam"></a>About Adam</h2><p>After a brief stint in the Air Force, Adam began his career as a software developer here in Oklahoma City.  In the more than decade since, he’s coded over a wide variety of languages, technologies and frameworks.  Most recently he’s developed an unhealthy obsession with JavaScript, and the React stack in particular.  When he’s not coding, his interests include fitness, reading, and of course being a husband and father.</p>
+<h3 id="Our-Sponsors"><a href="#Our-Sponsors" class="headerlink" title="Our Sponsors"></a>Our Sponsors</h3><p>Tasty lunch will be served thanks to <a href="http://techlahoma.org/" target="_blank" rel="external">Techlahoma</a> and <a href="https://www.roberthalf.com/oklahoma-city/technology-it" target="_blank" rel="external">Robert Half</a>.</p>
+<h2 id="usergroup-location-StarSpace46"><a href="#usergroup-location-StarSpace46" class="headerlink" title="usergroup.location = StarSpace46;"></a>usergroup.location = StarSpace46;</h2><p><a href="http://www.starspace46.com" target="_blank" rel="external">StarSpace46</a> StarSpace46 is OKC’s premiere entrepreneurial &amp; technology community hub.</p>
+<img src="/images/sponsors/StarSpace46.png" width="700" title="StarSpace46">
+<p>1141 W Sheridan Ave, Oklahoma City, Oklahoma 73106</p>
+<img src="/images/misc/starspace46-parking.png" width="700" title="StarSpace46 Parking">
+<p>Get directions via <a href="https://www.google.com/maps/place/1141+W+Sheridan+Ave,+Oklahoma+City,+OK+73106/@35.46679,-97.5343547,17z/data=!3m1!4b1!4m5!3m4!1s0x87b210d6c554c175:0x427474147d8d3d19!8m2!3d35.46679!4d-97.532166" target="_blank" rel="external">Google maps</a>.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/images/posters/2017-Webpack-Rackis.png&quot; width=&quot;700&quot; title=&quot;Lightning Talks #17 Lightning Talks #17&quot;&gt;
+&lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;div style=&quot;border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;&quot;&gt;&lt;a title=&quot;RSVP on Meetup.com&quot; style=&quot;color: #181818;text-decoration: none;&quot; target=&quot;_blank&quot; href=&quot;https://www.meetup.com/OKC-js/events/240563348/&quot;&gt;RSVP for okcjs on Meetup&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;This-Month&quot;&gt;&lt;a href=&quot;#This-Month&quot; class=&quot;headerlink&quot; title=&quot;This Month&quot;&gt;&lt;/a&gt;This Month&lt;/h2&gt;&lt;p&gt;Tuesday: Jun 20, 2017&lt;/p&gt;
+&lt;p&gt;11:30 am&lt;/p&gt;
+&lt;p&gt;@StarSpace46&lt;br&gt;1141 W Sheridan Ave&lt;br&gt;Oklahoma City, OK&lt;br&gt;73106&lt;/p&gt;
+&lt;h2 id=&quot;About-“Webpack”&quot;&gt;&lt;a href=&quot;#About-“Webpack”&quot; class=&quot;headerlink&quot; title=&quot;About “Webpack”&quot;&gt;&lt;/a&gt;About “Webpack”&lt;/h2&gt;&lt;p&gt;This talk will introduce webpack in the most gentle, un-intimidating way possible.  We’ll start with no config file, and build the simplest imagineable app.  From that starting point we’ll see just how easy it is to add code splitting, chunk management, bundle visualization, and finish with some cool JavaScript toys like Babel and TypeScript.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Adam Rackis" scheme="http://okcjs.com/tags/Adam-Rackis/"/>
+    
+      <category term="Webpack" scheme="http://okcjs.com/tags/Webpack/"/>
+    
+  </entry>
   
   <entry>
     <title>Meeting: June 20 - Lightning Talks 17</title>
@@ -515,7 +664,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" title="[700] [Prototek OKC]">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap1654" style="
+<div id="googleMap1889" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -525,13 +674,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap1654'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap1889'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap1654'),
+     target = document.getElementById('googleMap1889'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -634,7 +783,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap1647" style="
+<div id="googleMap4049" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -644,13 +793,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap1647'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap4049'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap1647'),
+     target = document.getElementById('googleMap4049'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -747,7 +896,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap4663" style="
+<div id="googleMap1429" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -757,13 +906,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap4663'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap1429'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap4663'),
+     target = document.getElementById('googleMap1429'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -848,7 +997,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap3226" style="
+<div id="googleMap9441" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -858,13 +1007,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap3226'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap9441'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap3226'),
+     target = document.getElementById('googleMap9441'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -959,7 +1108,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap3415" style="
+<div id="googleMap1323" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -969,13 +1118,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap3415'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap1323'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap3415'),
+     target = document.getElementById('googleMap1323'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1054,7 +1203,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap1492" style="
+<div id="googleMap5059" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1064,13 +1213,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap1492'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap5059'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap1492'),
+     target = document.getElementById('googleMap5059'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1148,7 +1297,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap2247" style="
+<div id="googleMap915" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1158,13 +1307,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap2247'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap915'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap2247'),
+     target = document.getElementById('googleMap915'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1248,7 +1397,7 @@
 <h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap7184" style="
+<div id="googleMap8479" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1258,13 +1407,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap7184'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap8479'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap7184'),
+     target = document.getElementById('googleMap8479'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1341,311 +1490,6 @@
       <category term="Brian Chirgwin" scheme="http://okcjs.com/tags/Brian-Chirgwin/"/>
     
       <category term="ESLint" scheme="http://okcjs.com/tags/ESLint/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Meeting: Feb 16 - React and Redux, without the tears</title>
-    <link href="http://okcjs.com/2016/02/16/2016-02-16-react-and-redux-without-tears/"/>
-    <id>http://okcjs.com/2016/02/16/2016-02-16-react-and-redux-without-tears/</id>
-    <published>2016-02-16T06:00:00.000Z</published>
-    <updated>2016-10-05T01:13:38.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/images/posters/2016-February-React-Redux.png" width="700" title="React and Redux, without the tears React and Redux, without the tears">
-<div style="margin-top: 10px;"><div style="border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;"><a title="RSVP on Meetup.com" style="color: #181818;text-decoration: none;" target="_blank" href="http://www.meetup.com/OKC-js/events/228506512/">RSVP for okcjs on Meetup</a></div></div>
-<h2 id="This-Month"><a href="#This-Month" class="headerlink" title="This Month"></a>This Month</h2><p>Tuesday: Feb 16, 2016</p>
-<p>11:30 am</p>
-<p>@Prototek<br>401 NW 10th,<br>Oklahoma City, Oklahoma<br>73101</p>
-<h2 id="About-“React-and-Redux-without-the-tears”"><a href="#About-“React-and-Redux-without-the-tears”" class="headerlink" title="About “React and Redux, without the tears”"></a>About “React and Redux, without the tears”</h2><p>This talk will take you through Redux with React, but without the big, confusing, house of cards-like toolchain often presented in beginner tutorials. It’ll start by showing how you can get React; and ES6 transpilation, with JSX, up and running in literally minutes—without any gulp tasks, or even build steps required prior to running. The bulk of the talk will be a somewhat deep dive into Redux, covering best practices and common mistakes, and of course how React easily and beautifully ties in to turn your Redux store into a functioning UI.</p>
-<h2 id="About-our-Speaker"><a href="#About-our-Speaker" class="headerlink" title="About our Speaker"></a>About our Speaker</h2><h3 id="Adam-Rackis"><a href="#Adam-Rackis" class="headerlink" title="Adam Rackis"></a>Adam Rackis</h3><p>Adam is a displaced New Yorker who by the happiest of accidents wound up living most of his adult life in beautiful Oklahoma City. He currently works remotely for a small company in South Florida writing health management software. In his free time he enjoys reading, and playing around with whatever new concoction the JavaScript community is putting out that particular week.<br><a href="https://twitter.com/adamrackis" target="_blank" rel="external">@adamrackis</a></p>
-<a id="more"></a>
-<h3 id="Our-Sponsors"><a href="#Our-Sponsors" class="headerlink" title="Our Sponsors"></a>Our Sponsors</h3><p>Meeting space is provided thanks to <a href="http://www.prototekokc.com" target="_blank" rel="external">Prototek</a>. These awesome folks are passionate about creating a vibrant maker space in Oklahoma City. We thank them for providing meeting space for user groups and events. Prototek is collaborating with Techlahoma to create a positive impact on our tech community, which is an epic win for everyone!</p>
-<p>Tasty lunch will be served thanks to <a href="http://techlahoma.org/" target="_blank" rel="external">Techlahoma</a>.</p>
-<h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
-<img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
-<p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap7698" style="
-            height: 250px;
-            width: 100%;
-            margin: 0px;
-            padding: 0px
-            ">
-</div>
-<style>.gmnoprint img {max-width: none !important;}</style>
-<script defer="defer">
-  window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap7698'] = function init() {
-    var mapOptions = {
-       'scrollwheel': false,
-       'zoom': 17,
-       'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
-     },
-     target = document.getElementById('googleMap7698'),
-     map = new window.google.maps.Map(target, mapOptions);
-      
-     
-     
-     var opts0 = {
-        'position': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
-        'map': map,
-        'title': 'Prototek OKC',
-        'zIndex' : 0,
-        'icon': 'http://google-maps-icons.googlecode.com/files/tools.png'
-      };
-     
-      var marker0 = new window.google.maps.Marker(opts0);
-   
-
-  }
-  function makeMaps() {
-    for (var map in window.hexoGmaps.maps) {
-       console.log('map #', map);
-       window.hexoGmaps.maps[map]();
-    }
-  }
-  function loadScript() {
-    window.hexoGmaps.googleScriptLoaded = true;
-    var script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp&callback=makeMaps';
-    document.body.appendChild(script);
-  }
-  if (!window.hexoGmaps.googleScriptLoaded) {
-    loadScript();
-  }
-</script>
-<p>Get directions via <a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415" target="_blank" rel="external">Google maps</a>.</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/images/posters/2016-February-React-Redux.png&quot; width=&quot;700&quot; title=&quot;React and Redux, without the tears React and Redux, without the tears&quot;&gt;
-&lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;div style=&quot;border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;&quot;&gt;&lt;a title=&quot;RSVP on Meetup.com&quot; style=&quot;color: #181818;text-decoration: none;&quot; target=&quot;_blank&quot; href=&quot;http://www.meetup.com/OKC-js/events/228506512/&quot;&gt;RSVP for okcjs on Meetup&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h2 id=&quot;This-Month&quot;&gt;&lt;a href=&quot;#This-Month&quot; class=&quot;headerlink&quot; title=&quot;This Month&quot;&gt;&lt;/a&gt;This Month&lt;/h2&gt;&lt;p&gt;Tuesday: Feb 16, 2016&lt;/p&gt;
-&lt;p&gt;11:30 am&lt;/p&gt;
-&lt;p&gt;@Prototek&lt;br&gt;401 NW 10th,&lt;br&gt;Oklahoma City, Oklahoma&lt;br&gt;73101&lt;/p&gt;
-&lt;h2 id=&quot;About-“React-and-Redux-without-the-tears”&quot;&gt;&lt;a href=&quot;#About-“React-and-Redux-without-the-tears”&quot; class=&quot;headerlink&quot; title=&quot;About “React and Redux, without the tears”&quot;&gt;&lt;/a&gt;About “React and Redux, without the tears”&lt;/h2&gt;&lt;p&gt;This talk will take you through Redux with React, but without the big, confusing, house of cards-like toolchain often presented in beginner tutorials. It’ll start by showing how you can get React; and ES6 transpilation, with JSX, up and running in literally minutes—without any gulp tasks, or even build steps required prior to running. The bulk of the talk will be a somewhat deep dive into Redux, covering best practices and common mistakes, and of course how React easily and beautifully ties in to turn your Redux store into a functioning UI.&lt;/p&gt;
-&lt;h2 id=&quot;About-our-Speaker&quot;&gt;&lt;a href=&quot;#About-our-Speaker&quot; class=&quot;headerlink&quot; title=&quot;About our Speaker&quot;&gt;&lt;/a&gt;About our Speaker&lt;/h2&gt;&lt;h3 id=&quot;Adam-Rackis&quot;&gt;&lt;a href=&quot;#Adam-Rackis&quot; class=&quot;headerlink&quot; title=&quot;Adam Rackis&quot;&gt;&lt;/a&gt;Adam Rackis&lt;/h3&gt;&lt;p&gt;Adam is a displaced New Yorker who by the happiest of accidents wound up living most of his adult life in beautiful Oklahoma City. He currently works remotely for a small company in South Florida writing health management software. In his free time he enjoys reading, and playing around with whatever new concoction the JavaScript community is putting out that particular week.&lt;br&gt;&lt;a href=&quot;https://twitter.com/adamrackis&quot;&gt;@adamrackis&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Adam Rackis" scheme="http://okcjs.com/tags/Adam-Rackis/"/>
-    
-      <category term="React" scheme="http://okcjs.com/tags/React/"/>
-    
-      <category term="Redux" scheme="http://okcjs.com/tags/Redux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Meeting: Jan 19 - Continuously deploy with nearly any static site tool</title>
-    <link href="http://okcjs.com/2016/01/19/2016-01-19-continuously-deploy-with-nearly-any-static-site-tool/"/>
-    <id>http://okcjs.com/2016/01/19/2016-01-19-continuously-deploy-with-nearly-any-static-site-tool/</id>
-    <published>2016-01-19T06:00:00.000Z</published>
-    <updated>2016-10-05T01:13:38.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/images/posters/2016-January-CD-Static-Tool.png" width="700" title="Continuously deploy with nearly any static site tool Continuously deploy with nearly any static site tool">
-<div style="margin-top: 10px;"><div style="border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;"><a title="RSVP on Meetup.com" style="color: #181818;text-decoration: none;" target="_blank" href="http://www.meetup.com/OKC-js/events/226641380/">RSVP for okcjs on Meetup</a></div></div>
-<h2 id="This-Month"><a href="#This-Month" class="headerlink" title="This Month"></a>This Month</h2><p>Tuesday: Jan 19, 2016</p>
-<p>11:30 am</p>
-<p>@Prototek<br>401 NW 10th,<br>Oklahoma City, Oklahoma<br>73101</p>
-<h2 id="About-“Continuously-deploy-with-nearly-any-static-site-tool”"><a href="#About-“Continuously-deploy-with-nearly-any-static-site-tool”" class="headerlink" title="About “Continuously deploy with nearly any static site tool”"></a>About “Continuously deploy with nearly any static site tool”</h2><p>You may have used the Jekyll integration in Github Pages for your site; but moved onto some other static tool or host. In this talk you will see how to regain a continuous deployment process for virtually any static site generator; with the added benefit of site previews of contributions. Join us and discover how you can keep delivering and have your static site too.</p>
-<h2 id="About-our-Speaker"><a href="#About-our-Speaker" class="headerlink" title="About our Speaker"></a>About our Speaker</h2><h3 id="David-Roberts"><a href="#David-Roberts" class="headerlink" title="David Roberts"></a>David Roberts</h3><p>A developer for developers, David enjoys focusing on solutions and improvements to the devloper’s workflow. Implementing and improving the development pipeline via version control, builds, reviews, deployments and monitoring; David’s goal is to become obsolete through automation. You can read more of his work at his blog <a href="http://teapotcoder.com" target="_blank" rel="external">TeapotCoder</a></p>
-<p>Twitter: <a href="https://twitter.com/davidroberts63" target="_blank" rel="external">@davidroberts63</a><br><a id="more"></a></p>
-<h3 id="Our-Sponsors"><a href="#Our-Sponsors" class="headerlink" title="Our Sponsors"></a>Our Sponsors</h3><p>Meeting space is provided thanks to <a href="http://www.prototekokc.com" target="_blank" rel="external">Prototek</a>. These awesome folks are passionate about creating a vibrant maker space in Oklahoma City. We thank them for providing meeting space for user groups and events. Prototek is collaborating with Techlahoma to create a positive impact on our tech community, which is an epic win for everyone!</p>
-<p>Tasty lunch will be served thanks to <a href="http://techlahoma.org/" target="_blank" rel="external">Techlahoma</a>.</p>
-<h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
-<img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
-<p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap7695" style="
-            height: 250px;
-            width: 100%;
-            margin: 0px;
-            padding: 0px
-            ">
-</div>
-<style>.gmnoprint img {max-width: none !important;}</style>
-<script defer="defer">
-  window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap7695'] = function init() {
-    var mapOptions = {
-       'scrollwheel': false,
-       'zoom': 17,
-       'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
-     },
-     target = document.getElementById('googleMap7695'),
-     map = new window.google.maps.Map(target, mapOptions);
-      
-     
-     
-     var opts0 = {
-        'position': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
-        'map': map,
-        'title': 'Prototek OKC',
-        'zIndex' : 0,
-        'icon': 'http://google-maps-icons.googlecode.com/files/tools.png'
-      };
-     
-      var marker0 = new window.google.maps.Marker(opts0);
-   
-
-  }
-  function makeMaps() {
-    for (var map in window.hexoGmaps.maps) {
-       console.log('map #', map);
-       window.hexoGmaps.maps[map]();
-    }
-  }
-  function loadScript() {
-    window.hexoGmaps.googleScriptLoaded = true;
-    var script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp&callback=makeMaps';
-    document.body.appendChild(script);
-  }
-  if (!window.hexoGmaps.googleScriptLoaded) {
-    loadScript();
-  }
-</script>
-<p>Get directions via <a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415" target="_blank" rel="external">Google maps</a>.</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/images/posters/2016-January-CD-Static-Tool.png&quot; width=&quot;700&quot; title=&quot;Continuously deploy with nearly any static site tool Continuously deploy with nearly any static site tool&quot;&gt;
-&lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;div style=&quot;border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;&quot;&gt;&lt;a title=&quot;RSVP on Meetup.com&quot; style=&quot;color: #181818;text-decoration: none;&quot; target=&quot;_blank&quot; href=&quot;http://www.meetup.com/OKC-js/events/226641380/&quot;&gt;RSVP for okcjs on Meetup&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h2 id=&quot;This-Month&quot;&gt;&lt;a href=&quot;#This-Month&quot; class=&quot;headerlink&quot; title=&quot;This Month&quot;&gt;&lt;/a&gt;This Month&lt;/h2&gt;&lt;p&gt;Tuesday: Jan 19, 2016&lt;/p&gt;
-&lt;p&gt;11:30 am&lt;/p&gt;
-&lt;p&gt;@Prototek&lt;br&gt;401 NW 10th,&lt;br&gt;Oklahoma City, Oklahoma&lt;br&gt;73101&lt;/p&gt;
-&lt;h2 id=&quot;About-“Continuously-deploy-with-nearly-any-static-site-tool”&quot;&gt;&lt;a href=&quot;#About-“Continuously-deploy-with-nearly-any-static-site-tool”&quot; class=&quot;headerlink&quot; title=&quot;About “Continuously deploy with nearly any static site tool”&quot;&gt;&lt;/a&gt;About “Continuously deploy with nearly any static site tool”&lt;/h2&gt;&lt;p&gt;You may have used the Jekyll integration in Github Pages for your site; but moved onto some other static tool or host. In this talk you will see how to regain a continuous deployment process for virtually any static site generator; with the added benefit of site previews of contributions. Join us and discover how you can keep delivering and have your static site too.&lt;/p&gt;
-&lt;h2 id=&quot;About-our-Speaker&quot;&gt;&lt;a href=&quot;#About-our-Speaker&quot; class=&quot;headerlink&quot; title=&quot;About our Speaker&quot;&gt;&lt;/a&gt;About our Speaker&lt;/h2&gt;&lt;h3 id=&quot;David-Roberts&quot;&gt;&lt;a href=&quot;#David-Roberts&quot; class=&quot;headerlink&quot; title=&quot;David Roberts&quot;&gt;&lt;/a&gt;David Roberts&lt;/h3&gt;&lt;p&gt;A developer for developers, David enjoys focusing on solutions and improvements to the devloper’s workflow. Implementing and improving the development pipeline via version control, builds, reviews, deployments and monitoring; David’s goal is to become obsolete through automation. You can read more of his work at his blog &lt;a href=&quot;http://teapotcoder.com&quot;&gt;TeapotCoder&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Twitter: &lt;a href=&quot;https://twitter.com/davidroberts63&quot;&gt;@davidroberts63&lt;/a&gt;&lt;br&gt;
-    
-    </summary>
-    
-    
-      <category term="JavaScript" scheme="http://okcjs.com/tags/JavaScript/"/>
-    
-      <category term="Static site generator" scheme="http://okcjs.com/tags/Static-site-generator/"/>
-    
-      <category term="Continous Deployment" scheme="http://okcjs.com/tags/Continous-Deployment/"/>
-    
-      <category term="David Roberts" scheme="http://okcjs.com/tags/David-Roberts/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Meeting: Dec 15 - Lightning Talks 11</title>
-    <link href="http://okcjs.com/2015/12/15/2015-12-15-lightning-talks-11/"/>
-    <id>http://okcjs.com/2015/12/15/2015-12-15-lightning-talks-11/</id>
-    <published>2015-12-15T06:00:00.000Z</published>
-    <updated>2016-10-05T01:13:38.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/images/posters/2015-December-Lightning-Talks.png" width="700" title="Lightning Talks 11 Lightning Talks 11">
-<div style="margin-top: 10px;"><div style="border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;"><a title="RSVP on Meetup.com" style="color: #181818;text-decoration: none;" target="_blank" href="http://www.meetup.com/OKC-js/events/225904883/">RSVP for okcjs on Meetup</a></div></div>
-<h2 id="This-Month"><a href="#This-Month" class="headerlink" title="This Month"></a>This Month</h2><p>Tuesday: Dec 15, 2015</p>
-<p>11:30 am</p>
-<p>@Prototek<br>401 NW 10th,<br>Oklahoma City, Oklahoma<br>73101</p>
-<h2 id="About-“Lightning-Talks-11”"><a href="#About-“Lightning-Talks-11”" class="headerlink" title="About “Lightning Talks: 11”"></a>About “Lightning Talks: 11”</h2><p>Lightning Talks are a really fun event we put on every 3 months. Community members have 5 to 10 minutes to talk about JavaScript or topics related to JavaScript. We give preference to new speakers to strengthen our community. To participate: post your topic and presentation length.</p>
-<p>Common talk themes include: problems you’ve solved, libraries you like, a cool blog post you read, something you’re working on now, or pretty much any other way you’re using JavaScript to achieve your goals. Please note that marketing pitches are not allowed; lightning talks are a community enrichment event.</p>
-<h2 id="About-our-Speakers"><a href="#About-our-Speakers" class="headerlink" title="About our Speakers"></a>About our Speakers</h2><h4 id="Here-is-this-month’s-lineup"><a href="#Here-is-this-month’s-lineup" class="headerlink" title="Here is this month’s lineup!"></a>Here is this month’s lineup!</h4><hr>
-<ul>
-<li><h6 id="Build-your-first-Ionic-app-5-min-by-Carmen-Long"><a href="#Build-your-first-Ionic-app-5-min-by-Carmen-Long" class="headerlink" title="Build your first Ionic app (5 min) by Carmen Long"></a>Build your first Ionic app (5 min) by <a href="https://twitter.com/carmalou" target="_blank" rel="external">Carmen Long</a></h6></li>
-<li><h6 id="Using-Ember-computed-properties-to-build-interactive-user-interfaces-with-ease-10-min-by-Ryan-LaBouve"><a href="#Using-Ember-computed-properties-to-build-interactive-user-interfaces-with-ease-10-min-by-Ryan-LaBouve" class="headerlink" title="Using Ember computed properties to build interactive user interfaces with ease (10 min) by Ryan LaBouve"></a>Using Ember computed properties to build interactive user interfaces with ease (10 min) by <a href="https://twitter.com/RyanLaBouve" target="_blank" rel="external">Ryan LaBouve</a></h6></li>
-<li><h6 id="Ranking-everything-with-Sylvester-5-min-by-James-England"><a href="#Ranking-everything-with-Sylvester-5-min-by-James-England" class="headerlink" title="Ranking everything with Sylvester (5 min) by James England"></a>Ranking everything with Sylvester (5 min) by <a href="https://twitter.com/JEinOKC" target="_blank" rel="external">James England</a></h6></li>
-<li><h6 id="Improving-the-quality-of-your-CSS-build-pipeline-with-post-processing-10-min-by-Jesse-Harlin"><a href="#Improving-the-quality-of-your-CSS-build-pipeline-with-post-processing-10-min-by-Jesse-Harlin" class="headerlink" title="Improving the quality of your CSS build pipeline with post processing (10 min) by Jesse Harlin"></a>Improving the quality of your CSS build pipeline with post processing (10 min) by <a href="http://jesseharlin.net/" target="_blank" rel="external">Jesse Harlin</a></h6></li>
-</ul>
-<a id="more"></a>
-<h3 id="Our-Sponsors"><a href="#Our-Sponsors" class="headerlink" title="Our Sponsors"></a>Our Sponsors</h3><p>Meeting space is provided thanks to <a href="http://www.prototekokc.com" target="_blank" rel="external">Prototek</a>. These awesome folks are passionate about creating a vibrant maker space in Oklahoma City. We thank them for providing meeting space for user groups and events. Prototek is collaborating with Techlahoma to create a positive impact on our tech community, which is an epic win for everyone!</p>
-<p>Tasty lunch will be served thanks to <a href="http://techlahoma.org/" target="_blank" rel="external">Techlahoma</a>.</p>
-<h2 id="usergroup-location-Prototek"><a href="#usergroup-location-Prototek" class="headerlink" title="usergroup.location = Prototek;"></a>usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
-<img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
-<p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap8074" style="
-            height: 250px;
-            width: 100%;
-            margin: 0px;
-            padding: 0px
-            ">
-</div>
-<style>.gmnoprint img {max-width: none !important;}</style>
-<script defer="defer">
-  window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap8074'] = function init() {
-    var mapOptions = {
-       'scrollwheel': false,
-       'zoom': 17,
-       'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
-     },
-     target = document.getElementById('googleMap8074'),
-     map = new window.google.maps.Map(target, mapOptions);
-      
-     
-     
-     var opts0 = {
-        'position': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
-        'map': map,
-        'title': 'Prototek OKC',
-        'zIndex' : 0,
-        'icon': 'http://google-maps-icons.googlecode.com/files/tools.png'
-      };
-     
-      var marker0 = new window.google.maps.Marker(opts0);
-   
-
-  }
-  function makeMaps() {
-    for (var map in window.hexoGmaps.maps) {
-       console.log('map #', map);
-       window.hexoGmaps.maps[map]();
-    }
-  }
-  function loadScript() {
-    window.hexoGmaps.googleScriptLoaded = true;
-    var script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp&callback=makeMaps';
-    document.body.appendChild(script);
-  }
-  if (!window.hexoGmaps.googleScriptLoaded) {
-    loadScript();
-  }
-</script>
-<p>Get directions via <a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415" target="_blank" rel="external">Google maps</a>.</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/images/posters/2015-December-Lightning-Talks.png&quot; width=&quot;700&quot; title=&quot;Lightning Talks 11 Lightning Talks 11&quot;&gt;
-&lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;div style=&quot;border-collapse: separate !important;border: 2px none #707070;border-radius: 3px;padding: 14px;background-color: #E7B932;font-family: Arial;font-size: 16px;font-weight: bold;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;letter-spacing: normal;line-height:100%;text-align: center;word-wrap: break-word;display: block;width:674px;margin: 0 auto;&quot;&gt;&lt;a title=&quot;RSVP on Meetup.com&quot; style=&quot;color: #181818;text-decoration: none;&quot; target=&quot;_blank&quot; href=&quot;http://www.meetup.com/OKC-js/events/225904883/&quot;&gt;RSVP for okcjs on Meetup&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h2 id=&quot;This-Month&quot;&gt;&lt;a href=&quot;#This-Month&quot; class=&quot;headerlink&quot; title=&quot;This Month&quot;&gt;&lt;/a&gt;This Month&lt;/h2&gt;&lt;p&gt;Tuesday: Dec 15, 2015&lt;/p&gt;
-&lt;p&gt;11:30 am&lt;/p&gt;
-&lt;p&gt;@Prototek&lt;br&gt;401 NW 10th,&lt;br&gt;Oklahoma City, Oklahoma&lt;br&gt;73101&lt;/p&gt;
-&lt;h2 id=&quot;About-“Lightning-Talks-11”&quot;&gt;&lt;a href=&quot;#About-“Lightning-Talks-11”&quot; class=&quot;headerlink&quot; title=&quot;About “Lightning Talks: 11”&quot;&gt;&lt;/a&gt;About “Lightning Talks: 11”&lt;/h2&gt;&lt;p&gt;Lightning Talks are a really fun event we put on every 3 months. Community members have 5 to 10 minutes to talk about JavaScript or topics related to JavaScript. We give preference to new speakers to strengthen our community. To participate: post your topic and presentation length.&lt;/p&gt;
-&lt;p&gt;Common talk themes include: problems you’ve solved, libraries you like, a cool blog post you read, something you’re working on now, or pretty much any other way you’re using JavaScript to achieve your goals. Please note that marketing pitches are not allowed; lightning talks are a community enrichment event.&lt;/p&gt;
-&lt;h2 id=&quot;About-our-Speakers&quot;&gt;&lt;a href=&quot;#About-our-Speakers&quot; class=&quot;headerlink&quot; title=&quot;About our Speakers&quot;&gt;&lt;/a&gt;About our Speakers&lt;/h2&gt;&lt;h4 id=&quot;Here-is-this-month’s-lineup&quot;&gt;&lt;a href=&quot;#Here-is-this-month’s-lineup&quot; class=&quot;headerlink&quot; title=&quot;Here is this month’s lineup!&quot;&gt;&lt;/a&gt;Here is this month’s lineup!&lt;/h4&gt;&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;h6 id=&quot;Build-your-first-Ionic-app-5-min-by-Carmen-Long&quot;&gt;&lt;a href=&quot;#Build-your-first-Ionic-app-5-min-by-Carmen-Long&quot; class=&quot;headerlink&quot; title=&quot;Build your first Ionic app (5 min) by Carmen Long&quot;&gt;&lt;/a&gt;Build your first Ionic app (5 min) by &lt;a href=&quot;https://twitter.com/carmalou&quot;&gt;Carmen Long&lt;/a&gt;&lt;/h6&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h6 id=&quot;Using-Ember-computed-properties-to-build-interactive-user-interfaces-with-ease-10-min-by-Ryan-LaBouve&quot;&gt;&lt;a href=&quot;#Using-Ember-computed-properties-to-build-interactive-user-interfaces-with-ease-10-min-by-Ryan-LaBouve&quot; class=&quot;headerlink&quot; title=&quot;Using Ember computed properties to build interactive user interfaces with ease (10 min) by Ryan LaBouve&quot;&gt;&lt;/a&gt;Using Ember computed properties to build interactive user interfaces with ease (10 min) by &lt;a href=&quot;https://twitter.com/RyanLaBouve&quot;&gt;Ryan LaBouve&lt;/a&gt;&lt;/h6&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h6 id=&quot;Ranking-everything-with-Sylvester-5-min-by-James-England&quot;&gt;&lt;a href=&quot;#Ranking-everything-with-Sylvester-5-min-by-James-England&quot; class=&quot;headerlink&quot; title=&quot;Ranking everything with Sylvester (5 min) by James England&quot;&gt;&lt;/a&gt;Ranking everything with Sylvester (5 min) by &lt;a href=&quot;https://twitter.com/JEinOKC&quot;&gt;James England&lt;/a&gt;&lt;/h6&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h6 id=&quot;Improving-the-quality-of-your-CSS-build-pipeline-with-post-processing-10-min-by-Jesse-Harlin&quot;&gt;&lt;a href=&quot;#Improving-the-quality-of-your-CSS-build-pipeline-with-post-processing-10-min-by-Jesse-Harlin&quot; class=&quot;headerlink&quot; title=&quot;Improving the quality of your CSS build pipeline with post processing (10 min) by Jesse Harlin&quot;&gt;&lt;/a&gt;Improving the quality of your CSS build pipeline with post processing (10 min) by &lt;a href=&quot;http://jesseharlin.net/&quot;&gt;Jesse Harlin&lt;/a&gt;&lt;/h6&gt;&lt;/li&gt;
-&lt;/ul&gt;
-    
-    </summary>
-    
-    
-      <category term="Ryan LaBouve" scheme="http://okcjs.com/tags/Ryan-LaBouve/"/>
-    
-      <category term="Carmen Long" scheme="http://okcjs.com/tags/Carmen-Long/"/>
-    
-      <category term="Ionic" scheme="http://okcjs.com/tags/Ionic/"/>
-    
-      <category term="Ember" scheme="http://okcjs.com/tags/Ember/"/>
-    
-      <category term="James England" scheme="http://okcjs.com/tags/James-England/"/>
-    
-      <category term="Sylvester" scheme="http://okcjs.com/tags/Sylvester/"/>
     
   </entry>
   
