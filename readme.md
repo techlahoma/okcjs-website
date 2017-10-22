@@ -1,7 +1,7 @@
 # OKCJS
 ![OKCjs](http://i.imgur.com/4z9STLh.png)
 
-OKCJS is the Oklahoma City JavaScript users group. We meet on the third Tuesday of every month at 11:30am at Prototek in MidTown (Downtown OKC) to teach, discuss, and learn about JavaScript and related web programming technologies. OKCJS follows the [Techlahoma Code of Conduct](https://github.com/techlahoma/CodeofConduct/wiki/Techlahoma-Code-of-Conduct).
+OKCJS is the Oklahoma City JavaScript users group. We meet on the third Tuesday of every month at 11:30am at [StarSpace46](https://www.starspace46.com/) to teach, discuss, and learn about JavaScript and related web programming technologies. OKCJS follows the [Techlahoma Code of Conduct](https://github.com/techlahoma/CodeofConduct/wiki/Techlahoma-Code-of-Conduct).
 
 ## find us online
 * [twitter](https://twitter.com/okcjs)
