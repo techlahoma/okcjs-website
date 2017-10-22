@@ -1,7 +1,7 @@
-# OKCJS
-![OKCjs](http://i.imgur.com/4z9STLh.png)
+# OKC.js
+![OKC.js](http://i.imgur.com/4z9STLh.png)
 
-OKCJS is the Oklahoma City JavaScript users group. We meet on the third Tuesday of every month at 11:30am at [StarSpace46](https://www.starspace46.com/) to teach, discuss, and learn about JavaScript and related web programming technologies. OKCJS follows the [Techlahoma Code of Conduct](https://github.com/techlahoma/CodeofConduct/wiki/Techlahoma-Code-of-Conduct).
+OKC.js is the Oklahoma City JavaScript users group. We meet on the third Tuesday of every month at 11:30am at [StarSpace46](https://www.starspace46.com/) to teach, discuss, and learn about JavaScript and related web programming technologies. OKC.js follows the [Techlahoma Code of Conduct](https://github.com/techlahoma/CodeofConduct/wiki/Techlahoma-Code-of-Conduct).
 
 ## find us online
 * [twitter](https://twitter.com/okcjs)
@@ -9,32 +9,32 @@ OKCJS is the Oklahoma City JavaScript users group. We meet on the third Tuesday 
 * [email](mailto:oklahomacityjavascript@gmail.com)
 * [website](http://okcjs.com)  
 
-## About okcjs
+## About OKC.js
 
-⏳ What's OKCJS ' history?  
-OKCJS started in January 2012 with 72 attendees. We currently range from 50-100+ members at our lunch time meetup. We organize the meetup with a couple organizers and volunteers. If you're interested in helping out, send us an [email](mailto:oklahomacityjavascript@gmail.com), [tweet](https://twitter.com/okcjs) or start contributing via [Github](https://github.com/techlahoma/okcjs-website).
+⏳ What's OKC.js ' history?  
+OKC.js started in January 2012 with 72 attendees. We currently range from 50-100+ members at our lunch time meetup. We organize the meetup with a couple organizers and volunteers. If you're interested in helping out, send us an [email](mailto:oklahomacityjavascript@gmail.com), [tweet](https://twitter.com/okcjs) or start contributing via [Github](https://github.com/techlahoma/okcjs-website).
 
-🎯 What are common topics at okcjs  
-Topics at okcjs range from JS on the client side, server side, optimization, frameworks, libraries, testing, IDE tips, best practices, and personal projects.
+🎯 What are common topics at OKC.js  
+Topics at OKC.js range from JS on the client side, server side, optimization, frameworks, libraries, testing, IDE tips, best practices, and personal projects.
 
 💞 Who should attend?  
-This group is for people of all levels and all skills. We recommend attending especially  if you feel that you don't belong due to being new to JavaScript, tech in general, or the okc area. It is impossible to know everything or be an expert in every matter, but it *is* possible to learn something new at every okcjs meeting. Every meeting we learn about new tech to discover, better ways to solve our problems with code, and make new friends. Attending is an investment in yourself and our tech community! Please [rsvp](http://meetup.com/OKC-JS) and find this out for yourself.
+This group is for people of all levels and all skills. We recommend attending especially  if you feel that you don't belong due to being new to JavaScript, tech in general, or the okc area. It is impossible to know everything or be an expert in every matter, but it *is* possible to learn something new at every OKC.js meeting. Every meeting we learn about new tech to discover, better ways to solve our problems with code, and make new friends. Attending is an investment in yourself and our tech community! Please [rsvp](http://meetup.com/OKC-JS) and find this out for yourself.
 
-💖 What is the okcjs community like?  
-OKCJS is made up of  members from varying backgrounds. Some have recently decided they want to learn more about technology, the tech industry, and if a career in programming is right for them. Some attendees are students at high schools, vo-techs, 2 year schools, or 4 year universities. Some attendees are in their first few years or fifteenth year in tech.
+💖 What is the OKC.js community like?  
+OKC.js is made up of  members from varying backgrounds. Some have recently decided they want to learn more about technology, the tech industry, and if a career in programming is right for them. Some attendees are students at high schools, vo-techs, 2 year schools, or 4 year universities. Some attendees are in their first few years or fifteenth year in tech.
 
 ⚡ What are Lightning Talks?  
-⚡Lightning Talks⚡ are every third month.  They're a really fun event we put on every 3 months. Community members have 5 to 10 minutes to talk about JavaScript or topics related to JavaScript. We give preference to new speakers to strengthen our community. Anyone who has attended OKCJS once before is invited to [sign up](http://www.meetup.com/OKC-js/messages/boards/). Selected speakers will be notified of their status. Common topics include: libraries, ways you've solved problems, what you're working on, or anything relating to JS.  Please note that marketing pitches are not allowed; lightning talks are a community enrichment event. Thusly, we do not accept talks that sell products, goods, or services.
+⚡Lightning Talks⚡ are every third month.  They're a really fun event we put on every 3 months. Community members have 5 to 10 minutes to talk about JavaScript or topics related to JavaScript. We give preference to new speakers to strengthen our community. Anyone who has attended OKC.js once before is invited to [sign up](http://www.meetup.com/OKC-js/messages/boards/). Selected speakers will be notified of their status. Common topics include: libraries, ways you've solved problems, what you're working on, or anything relating to JS.  Please note that marketing pitches are not allowed; lightning talks are a community enrichment event. Thusly, we do not accept talks that sell products, goods, or services.
 
-📬 How can I contact OKCJS?  
+📬 How can I contact OKC.js?  
 Tweet to us at [@okcjs](https://twitter.com/okcjs), post a comment/question or create a new thread in our [github repo](http://github.com/techlahoma/okcjs-website), post a question on [meetup](https://meetup.com/OKC-js) in an event or discussion thread, send us an [email](mailto:oklahomacityjavascript@gmail.com), or post a question in the techlahoma [slack channel](http://techlahoma.slack.com). (Join the techlahoma slack channel [here](http://slack.techlahoma.org).) We'll try to respond as soon as possible.
 
-💵 Is OKCJS free?  
-Yes! OKCJS has been, and always will be, a free monthly training event. We organize and speak at okcjs for the betterment of Oklahoma's tech community. '*Advancing Oklahoma's grassroots technology community*' is the Techlahoma Foundation's mission.
-If you or your company would like to sponsor pizza and soda for okcjs we do accept [donations](https://donate.techlahoma.org) via the [Techlahoma Foundation](http://techlahoma.org).
+💵 Is OKC.js free?  
+Yes! OKC.js has been, and always will be, a free monthly training event. We organize and speak at OKC.js for the betterment of Oklahoma's tech community. '*Advancing Oklahoma's grassroots technology community*' is the Techlahoma Foundation's mission.
+If you or your company would like to sponsor pizza and soda for OKC.js we do accept [donations](https://donate.techlahoma.org) via the [Techlahoma Foundation](http://techlahoma.org).
 
 🔊 I like what you're doing! How can I help?  
-Awesome!! We are so happy you like what we're doing and want to contribute! This readme includes instructions on how to contribute to the okcjs website github repository by adding and updating events or fixing spelling errors and broken links.
+Awesome!! We are so happy you like what we're doing and want to contribute! This readme includes instructions on how to contribute to the OKC.js website github repository by adding and updating events or fixing spelling errors and broken links.
 
 Listed below are some volunteer activities we do every month. If there's something that interests you, fits your skill set or one you'd like to expand upon, please let us know. If you have an idea for better ways to organize the group and duties, ways to get the word out, or create a better experience for the community, please share it with us!  
 
@@ -133,7 +133,7 @@ The magic words: ```hexo clean``` then ```hexo generate``` This will recreate ev
 
 - [Techlahoma Foundation](http://techlahoma.org)
 - [Techlahoma Community](http://us.techlahoma.org)
-- [OKCJS](http://okcjs.com)
+- [OKC.js](http://okcjs.com)
 - [OKCRB](http://okcruby.org)
 - [OKCJUG](http://okcjug.org)
 - [OKC#](http://okcsharp.org)
