@@ -18,13 +18,13 @@ OKCJS started in January 2012 with 72 attendees. We currently range from 50-100+
 Topics at okcjs range from JS on the client side, server side, optimization, frameworks, libraries, testing, IDE tips, best practices, and personal projects.
 
 💞 Who should attend?  
-This group is for people of all levels and all skills. We recommend attending especially  if you feel that you don't belong due to being new to javscript, tech in general, or the okc area. It is impossible to know everything or be an expert in every matter, but it *is* possible to learn something new at every okcjs meeting. Every meeting we learn about new tech to discover, better ways to solve our problems with code, and make new friends. Attending is an investment in yourself and our tech community! Please [rsvp](http://meetup.com/OKC-JS) and find this out for yourself.
+This group is for people of all levels and all skills. We recommend attending especially  if you feel that you don't belong due to being new to JavaScript, tech in general, or the okc area. It is impossible to know everything or be an expert in every matter, but it *is* possible to learn something new at every okcjs meeting. Every meeting we learn about new tech to discover, better ways to solve our problems with code, and make new friends. Attending is an investment in yourself and our tech community! Please [rsvp](http://meetup.com/OKC-JS) and find this out for yourself.
 
 💖 What is the okcjs community like?  
 OKCJS is made up of  members from varying backgrounds. Some have recently decided they want to learn more about technology, the tech industry, and if a career in programming is right for them. Some attendees are students at high schools, vo-techs, 2 year schools, or 4 year universities. Some attendees are in their first few years or fifteenth year in tech.
 
 ⚡ What are Lightning Talks?  
-⚡Lightning Talks⚡ are every third month.  They're a really fun event we put on every 3 months. Community members have 5 to 10 minutes to talk about JavaScript or topics related to JavaScript. We give preference to new speakers to strengthen our community. nyone who has attended OKCJS once before is invited to [sign up](http://www.meetup.com/OKC-js/messages/boards/). Selected speakers will be notified of their status. Common topics include: libraries, ways you've solved problems, what you're working on, or anything relating to JS.  Please note that marketing pitches are not allowed; lightning talks are a community enrichment event. Thusly, we do not accept talks that sell products, goods, or services.
+⚡Lightning Talks⚡ are every third month.  They're a really fun event we put on every 3 months. Community members have 5 to 10 minutes to talk about JavaScript or topics related to JavaScript. We give preference to new speakers to strengthen our community. Anyone who has attended OKCJS once before is invited to [sign up](http://www.meetup.com/OKC-js/messages/boards/). Selected speakers will be notified of their status. Common topics include: libraries, ways you've solved problems, what you're working on, or anything relating to JS.  Please note that marketing pitches are not allowed; lightning talks are a community enrichment event. Thusly, we do not accept talks that sell products, goods, or services.
 
 📬 How can I contact OKCJS?  
 Tweet to us at [@okcjs](https://twitter.com/okcjs), post a comment/question or create a new thread in our [github repo](http://github.com/techlahoma/okcjs-website), post a question on [meetup](https://meetup.com/OKC-js) in an event or discussion thread, send us an [email](mailto:oklahomacityjavascript@gmail.com), or post a question in the techlahoma [slack channel](http://techlahoma.slack.com). (Join the techlahoma slack channel [here](http://slack.techlahoma.org).) We'll try to respond as soon as possible.
@@ -66,7 +66,7 @@ help is always welcome for these volunteer roles
 
  - Make a screencast explaining how to update the website
  - Find speakers for Sep, Oct, Dec of 2015
- - Find volunteers, future dates for js/technlahoma workshops
+ - Find volunteers, future dates for js/Techlahoma workshops
  - Think of something else? Add it to our readme.md with a pull request!
 
 
