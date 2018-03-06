@@ -13,6 +13,8 @@ tags:
 date: 2018-03-20
 ---
 
+{% img /images/posters/2018-March-Lightning-Talks.png 700 "Lightning Talks" "Lightning Talks" %}
+
 {% meetup_btn https://www.meetup.com/OKC-js/events/247261051/ 674 %}
 
 ## This Month
