@@ -38,8 +38,8 @@ Please note that marketing pitches are not allowed; lightning talks are a commun
 
 #### Here is this month's lineup!
 ----------------------------------------------------------
-- ###### TeDB: TypeScript Embedded Database (10 min) by Marcus Whelan
 - ###### SQL to JSON (5 min) by [Kristin Ferrier](https://twitter.com/sqlenergy)
+- ###### TeDB: TypeScript Embedded Database (15 min) by [Marcus Whelan](https://twitter.com/mjwrazor)
 
 <!-- more -->
 
